@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - notes/Expressando Gratidão com V-てくれる no Japonês.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expressando Gratidão com V-てくれる no Japonês"
-            }
-          },
-          {
-            "id": "36fa9ca07daa6464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,8 +94,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -131,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 470
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -224,19 +208,24 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "36fa9ca07daa6464",
+  "active": "14e9730fe7a52219",
   "lastOpenFiles": [
+    "00 - notes/N3/食べちゃった - Responder de forma coloquial.md",
+    "00 - notes/N3/Vておく.md",
+    "00 - notes/N3/Passive Form - V れる.md",
+    "00 - notes/N3/Must - Ｖ ないと - Ｖなくちゃ.md",
+    "00 - notes/N3/Exercícios - Week 2.md",
+    "00 - notes/N3",
+    "01 - archives/Forma ない.md",
+    "00 - notes/Gramatica/Expressando Gratidão com V-てくれる no Japonês.md",
+    "01 - archives/plain form.md",
+    "01 - archives/pininfo.md",
+    "01 - archives/jitsu.png",
+    "01 - archives/kerebanarimasen.png",
     "test.md",
-    "00 - notes/Expressando Gratidão com V-てくれる no Japonês.md",
     "README.md",
-    "00 - notes/Forma ない.md",
     "01 - archives/Forma て.md",
-    "00 - notes/食べちゃった - Responder de forma coloquial.md",
-    "00 - notes/Exercícios - Week 2.md",
-    "00 - notes/Must - Ｖ ないと - Ｖなくちゃ.md",
     "01 - archives/forma NAI.md",
-    "00 - notes/Vておく.md",
-    "00 - notes/Passive Form - V れる.md",
     "00 - notes/Gramatica/Falar que algo se parece -　みたい.md",
     "00 - notes/Gramatica/Concessão,  excessão - くても - でも.md",
     "01 - archives/adjectives_sa.png",
@@ -244,31 +233,25 @@
     "00 - notes/Expressions/Perguntar a opinião da pessoa - ないですか  -ませんか.md",
     "00 - notes/Expressions/Maneira de terminar uma frase - けど.md",
     "00 - notes/Gramatica/Condicional - ば - なければ.md",
-    "00 - notes/plain form.md",
     "00 - notes/Gramatica/イA＋さ - ナA＋さ.md",
     "00 - notes/Gramatica/ければなりません.md",
-    "00 - notes/pininfo.md",
-    "00 - notes/pininfo.md",
     "00 - notes/Expressions/Conectar duas frases - から_けど.md",
-    "00 - notes/plain_form.png",
+    "01 - archives/plain_form.png",
     "02 - myself/myself.md",
     "02 - myself/2024-09-01.md",
-    "02 - myself/2024-08-29.md",
     "02 - myself",
     "00 - notes/Gramatica",
     "00 - notes/Expressions",
-    "00 - notes/teitemashita.png",
-    "00 - notes/kerebanarimasen.png",
-    "00 - notes/jitsu.png",
+    "01 - archives/teitemashita.png",
     "01 - archives",
     "00 - notes",
     "00 - notes",
     "Untitled 1",
     "Untitled.canvas",
     "ekaFpax.png",
-    "00 - notes/nara.png",
+    "01 - archives/nara.png",
     "form_nai.png",
-    "00 - notes/nai_form.png",
+    "01 - archives/nai_form.png",
     "Pasted image 20240818213603.png"
   ]
 }
