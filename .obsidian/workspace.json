@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "a3926e7853e0abdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "37c61aeba4dd5e17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14e9730fe7a52219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - notes/Expressando Gratidão com V-てくれる no Japonês.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expressando Gratidão com V-てくれる no Japonês"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "593d0f65a3185129",
+    "type": "split",
+    "children": [
+      {
+        "id": "213acfa439c97249",
+        "type": "tabs",
+        "dimension": 46.8149646107179,
+        "children": [
+          {
+            "id": "e90ae10e9ecbb673",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e1ea6902c2358ae2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "69b50a41f74fb3c6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "d602392ed5dd0bc5",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          },
+          {
+            "id": "0e125a6ffff298be",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "2eb09d6e91f722e5",
+        "type": "tabs",
+        "dimension": 53.1850353892821,
+        "children": [
+          {
+            "id": "c8ae29299184ed50",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315
+  },
+  "right": {
+    "id": "d0aa8c06c769c833",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a3d32ae9c6da7e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca541335742345d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ceca4bbd85cd8111",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e7b70dcba02e17e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "3da453d888bd8910",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "14bb1fd570fc8182",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "local-backup:Run local backup": false
+    }
+  },
+  "active": "c8ae29299184ed50",
+  "lastOpenFiles": [
+    "README.md",
+    "00 - notes/Expressando Gratidão com V-てくれる no Japonês.md",
+    "00 - notes/Forma ない.md",
+    "01 - archives/Forma て.md",
+    "00 - notes/食べちゃった - Responder de forma coloquial.md",
+    "00 - notes/Exercícios - Week 2.md",
+    "00 - notes/Must - Ｖ ないと - Ｖなくちゃ.md",
+    "01 - archives/forma NAI.md",
+    "00 - notes/Vておく.md",
+    "00 - notes/Passive Form - V れる.md",
+    "00 - notes/Gramatica/Falar que algo se parece -　みたい.md",
+    "00 - notes/Gramatica/Concessão,  excessão - くても - でも.md",
+    "01 - archives/adjectives_sa.png",
+    "00 - notes/Expressions/Falar a razão ou o porquê - から- ので.md",
+    "00 - notes/Expressions/Perguntar a opinião da pessoa - ないですか  -ませんか.md",
+    "00 - notes/Expressions/Maneira de terminar uma frase - けど.md",
+    "00 - notes/Gramatica/Condicional - ば - なければ.md",
+    "00 - notes/plain form.md",
+    "00 - notes/Gramatica/イA＋さ - ナA＋さ.md",
+    "00 - notes/Gramatica/ければなりません.md",
+    "00 - notes/pininfo.md",
+    "00 - notes/pininfo.md",
+    "00 - notes/Expressions/Conectar duas frases - から_けど.md",
+    "00 - notes/plain_form.png",
+    "02 - myself/myself.md",
+    "02 - myself/2024-09-01.md",
+    "02 - myself/2024-08-29.md",
+    "02 - myself",
+    "00 - notes/Expressions/じつは - ~たんです.md",
+    "00 - notes/Gramatica",
+    "00 - notes/Expressions",
+    "00 - notes/teitemashita.png",
+    "00 - notes/kerebanarimasen.png",
+    "00 - notes/jitsu.png",
+    "01 - archives",
+    "00 - notes",
+    "00 - notes",
+    "Untitled 1",
+    "Untitled.canvas",
+    "ekaFpax.png",
+    "00 - notes/nara.png",
+    "form_nai.png",
+    "00 - notes/nai_form.png",
+    "Pasted image 20240818213603.png"
+  ]
+}
