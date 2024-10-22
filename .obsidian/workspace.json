@@ -94,7 +94,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -204,7 +205,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "local-backup:Run local backup": false,
       "github-sync:Sync with Remote": false
     }
   },
