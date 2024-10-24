@@ -39,7 +39,7 @@ Para representar números negativos existem 3 propostas:
 3. **blt** rs1, rs2, L1: se rs1 < rs2
 4. **bge** rs1, rs2, L1: se rs1 >= rs2
 ![[Pasted image 20241011114727.png]]![[Pasted image 20241011115015.png
-\
+
 
 ### Comandos RISC-V com Funções e Exemplos em C
 

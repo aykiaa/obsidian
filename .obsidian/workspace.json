@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学/oc/OC1.md",
+                "file": "大学/OC/slide 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OC1"
+              "title": "slide 1"
             }
           }
         ]
@@ -208,22 +208,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "local-backup:Run local backup": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "62d3dcd51f847fe4",
   "lastOpenFiles": [
-    "大学/oc",
+    "大学/Crypto/Blockchain and Bitcoin.md",
+    "大学/Crypto/Types of encryption.md",
+    "大学/OC/slide 1.md",
+    "大学/Crypto",
+    "大学/OC",
     "大学",
     "Untitled.md",
-    "大学/oc/OC1.md",
-    "Untitled 1.md",
     "README.md",
     "00 - notes/N3/食べちゃった - Responder de forma coloquial.md",
     "00 - notes/N3/Vておく.md",
@@ -258,7 +260,6 @@
     "01 - archives",
     "00 - notes",
     "00 - notes",
-    "Untitled 1",
     "Untitled.canvas",
     "ekaFpax.png",
     "01 - archives/nara.png",
