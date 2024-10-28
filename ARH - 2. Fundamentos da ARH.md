@@ -32,10 +32,10 @@ O paradigma indivíduo-cargo se baseia no ajuste entre três elementos:
 
 O **departamento de RH** é responsável pela gestão de pessoas, concentrando-se em aspectos operacionais e administrativos. Ele responde às demandas dos outros departamentos.
 
-| Departamento | Função                              |
-|--------------|-------------------------------------|
-| RH           | Administrativa e Comportamental     |
-| Pessoal (DP) | Jurídica-Trabalhista               |
+| Departamento | Função                          |
+| ------------ | ------------------------------- |
+| RH           | Administrativa e Comportamental |
+| Pessoal (DP) | Jurídica-Trabalhista            |
 
 - O **departamento de pessoal** lida com os aspectos legais e burocráticos, como contratos e folha de pagamento, enquanto o RH foca na gestão de talentos e desenvolvimento.
 
