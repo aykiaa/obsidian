@@ -56,3 +56,12 @@ A tabela lista alguns fatores que influenciam cada uma das variáveis da fórmul
 		 *Por exemplo*, uma *simples adição pode gastar menos ciclos do que uma multiplicação* ou uma operação de acesso à memória.
 	**Máquinas diferentes**: Processadores diferentes podem ter *arquiteturas diferentes*, o que significa que uma *mesma instrução pode ser executada em diferentes quantidades de ciclos dependendo do design do processador.* 
 		Por exemplo, um processador mais moderno com uma melhor arquitetura de pipelining pode executar instruções mais rapidamente do que um processador mais antigo.
+![[Pasted image 20241024130938.png]]
+
+
+**obs:** 
+Conversão de Hertz para Segundos
+- **1 Hz** =  10^0 segundos/ciclo
+- **1 kHz** =  10ˆ-3
+- **1 MHz** =  10^-6
+- **1 GHz** =  10^-9

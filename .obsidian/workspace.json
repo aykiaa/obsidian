@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14e9730fe7a52219",
+            "id": "8c193a6b65642165",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学/oc/OC1.md",
+                "file": "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OC1"
+              "title": "ARH - 1. Introdução à ARH"
             }
           },
           {
-            "id": "648eb4945f27719d",
+            "id": "22ebf60db154fd95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula - 03 -  Desempenho.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula - 03 -  Desempenho"
+              "title": "Untitled"
             }
           }
         ],
@@ -109,7 +109,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -130,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -222,13 +224,26 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "22ebf60db154fd95",
   "lastOpenFiles": [
+    "Untitled.md",
+    "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
+    "大学/ADM-ARH",
+    "README.md",
+    "大学/OC/Prova 01 - Topicos.md",
+    "01 - archives/Pasted image 20241024130938.png",
+    "Aula - 03 -  Desempenho.md",
+    "大学/OC/slide 1.md",
+    "大学/OC/Aula - 03 -  Desempenho.md",
+    "大学/OC",
+    "大学/Crypto/Types of encryption.md",
+    "大学/Crypto/Blockchain and Bitcoin.md",
+    "大学/Crypto",
+    "01 - archives/Pasted image 20241023094451.png",
+    "01 - archives/Pasted image 20241023094308.png",
     "Pasted image 20241023094451.png",
     "Pasted image 20241023094308.png",
-    "Aula - 03 -  Desempenho.md",
     "大学/oc/OC1.md",
-    "README.md",
     "Untitled 1.md",
     "大学/oc",
     "大学",
@@ -251,25 +266,12 @@
     "00 - notes/Gramatica/Concessão,  excessão - くても - でも.md",
     "01 - archives/adjectives_sa.png",
     "00 - notes/Expressions/Falar a razão ou o porquê - から- ので.md",
-    "00 - notes/Expressions/Perguntar a opinião da pessoa - ないですか  -ませんか.md",
-    "00 - notes/Expressions/Maneira de terminar uma frase - けど.md",
-    "00 - notes/Gramatica/Condicional - ば - なければ.md",
-    "00 - notes/Gramatica/イA＋さ - ナA＋さ.md",
-    "00 - notes/Gramatica/ければなりません.md",
-    "00 - notes/Expressions/Conectar duas frases - から_けど.md",
     "01 - archives/plain_form.png",
     "02 - myself",
     "00 - notes/Gramatica",
     "00 - notes/Expressions",
     "01 - archives/teitemashita.png",
     "01 - archives",
-    "00 - notes",
-    "00 - notes",
-    "Untitled 1",
-    "Untitled.canvas",
-    "ekaFpax.png",
-    "01 - archives/nara.png",
-    "form_nai.png",
-    "01 - archives/nai_form.png"
+    "Untitled.canvas"
   ]
 }
