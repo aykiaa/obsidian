@@ -130,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470,
-    "collapsed": true
+    "width": 470
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -223,7 +222,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "648eb4945f27719d",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
     "Pasted image 20241023094451.png",
     "Pasted image 20241023094308.png",
