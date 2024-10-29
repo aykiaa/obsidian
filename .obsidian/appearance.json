@@ -1,7 +1,7 @@
 {
   "cssTheme": "Catppuccin",
   "accentColor": "#765fc4",
-  "monospaceFontFamily": "Bahnschrift",
-  "textFontFamily": "Bahnschrift",
+  "monospaceFontFamily": "SN Pro",
+  "textFontFamily": "SN Pro",
   "baseFontSize": 20
 }

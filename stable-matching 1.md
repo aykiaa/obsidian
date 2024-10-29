@@ -160,7 +160,7 @@ Agora, se o estudante recebe uma proposta do Hospital C e já está emparelhado 
 - `rank[C] = 4`
 - `rank[D] = 2`
 
-Como `rank[D] < rank[C]`, o estudante prefere o Hospital D e rejeita a proposta do Hospital C. Essa comparação, utilizando a lista invertida, é realizada em tempo O(1), tornando a decisão do estudante extremamente eficiente.
+Como `rank[D] < rank[C]`, o estudante prefere o Hospital D e rejeita a proposta do Hospital C. **Essa comparação, utilizando a lista invertida, é realizada em tempo O(1), tornando a decisão do estudante extremamente eficiente.**
 
 **Construção da Lista Invertida:**
 
@@ -172,7 +172,7 @@ A matriz `rank[]` é construída durante a fase de pré-processamento do algorit
 - **Simplicidade:** A lógica da lista invertida é simples e fácil de implementar, não adicionando complexidade significativa ao algoritmo.
 - **Escalabilidade:** A lista invertida torna o algoritmo Gale-Shapley mais escalável, permitindo que ele lide com um grande número de hospitais e estudantes de forma eficiente.
 
-**Em resumo, a lista invertida é uma estrutura de dados crucial para a implementação eficiente do algoritmo Gale-Shapley. Ela simplifica e acelera a etapa de decisão do estudante, tornando o algoritmo mais rápido e escalável para cenários do mundo real.**
+Em resumo, a lista invertida é uma estrutura de dados crucial para a implementação eficiente do algoritmo Gale-Shapley. Ela simplifica e acelera a etapa de decisão do estudante, tornando o algoritmo mais rápido e escalável para cenários do mundo real.
 
 ---
 **Resumo da Implementação Eficiente:**
