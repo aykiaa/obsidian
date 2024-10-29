@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "951dd9673c16890a",
+            "id": "d6b5f15ea49c609f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学/ADM-ARH/TEXTO 01 - Por que ir trabalhar com RH.md",
+                "file": "TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEXTO 01 - Por que ir trabalhar com RH"
+              "title": "TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações"
             }
           },
           {
-            "id": "81c8855ab6c12d85",
+            "id": "778d9130d6071658",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARH - 3. Reestruturação Produtiva, Novas Tecnologias e as Mudanças no Trabalho.md",
+                "file": "todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARH - 3. Reestruturação Produtiva, Novas Tecnologias e as Mudanças no Trabalho"
+              "title": "todo"
             }
           }
         ],
@@ -140,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 409
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -233,16 +232,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "81c8855ab6c12d85",
+  "active": "778d9130d6071658",
   "lastOpenFiles": [
-    "大学/ADM-ARH/TEXTO 01 - Por que ir trabalhar com RH.md",
-    "ARH - 3. Reestruturação Produtiva, Novas Tecnologias e as Mudanças no Trabalho.md",
+    "TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações.md",
     "todo.md",
+    "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
+    "大学/ADM-ARH/TEXTO 01 - Por que ir trabalhar com RH.md",
+    "大学/ADM-ARH/TEXTO 02 - A Atual Administração de RH.md",
+    "大学/ADM-ARH/ARH - 3. Reestruturação Produtiva, Novas Tecnologias e as Mudanças no Trabalho.md",
     "大学/OC/Aula - 03 -  Desempenho.md",
     "大学/OC/Prova 01 - Topicos.md",
-    "大学/ADM-ARH/TEXTO 02 - A Atual Administração de RH.md",
     "大学/ADM-ARH/ARH - 2. Fundamentos da ARH.md",
-    "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
     "大学/ADM-ARH",
     "01 - archives/Pasted image 20241024130938.png",
     "大学/OC/slide 1.md",
@@ -271,7 +271,6 @@
     "01 - archives/kerebanarimasen.png",
     "test.md",
     "01 - archives/Forma て.md",
-    "01 - archives/forma NAI.md",
     "01 - archives/adjectives_sa.png",
     "01 - archives/plain_form.png",
     "02 - myself",
