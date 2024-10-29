@@ -4,7 +4,7 @@
 Achar um casamento estável entre **2 conjuntos de elemento com tamanho iguais**, a partir de uma **ordem de preferencia** de cada elemento
 - *Ex*: mans x girls, faculdade x estudantes
 
-Se tiver N homens e N mulheres, e que cada um fez a ordem de preferencia, é **GARANTIDO** achar um stable matching.
+Se tiver N homens e N mulheres, e que cada um fez a ordem de preferencia do conjunto oposto, é **GARANTIDO** achar um stable matching.
 
 - **Stable matching**: um stable matching é quando nao ha um emparelhamento onde haja duas pessoas que prefiram estar juntos um com o outro do que com seus parceiros atuais.
 		*obs:* precisa ser recíproco 
@@ -78,8 +78,7 @@ Esse matching é estável, pois não há nenhum par que preferiria trocar de par
 **100% garantido** para achar estabilidade, porém *quem faz as propostas, o matching será mais favorável*  para este grupo,
 	**PORQUE?** A razão é que o grupo que faz as propostas tem prioridade ao tentar emparelhar-se com sua escolha preferida, enquanto o grupo que recebe as propostas precisa rejeitar ou aceitar com base em suas preferências.
 
-Independente da ordem dentro de um mesmo conjunto, ou seja, **não faz diferença a ordem com que os indivíduos de um mesmo grupo fazem as propostas**. 
-Desde que um grupo específico (por exemplo, os homens) esteja fazendo as propostas, todos eles eventualmente terão a chance de propor às suas escolhas preferidas, e o algoritmo garantirá um resultado estável. 
+Independente da ordem dentro de um mesmo conjunto, ou seja, **não faz diferença a ordem com que os indivíduos de um mesmo grupo fazem as propostas**. Desde que um grupo específico (por exemplo, os homens) esteja fazendo as propostas, todos eles eventualmente terão a chance de propor às suas escolhas preferidas, e o algoritmo garantirá um resultado estável. 
 A ordem de proposição entre os membros de um mesmo grupo não altera o matching final; o que realmente importa é **qual grupo está fazendo as propostas** (homens ou mulheres), pois isso determina quem terá prioridade no matching final.
 
 
