@@ -6,6 +6,11 @@ Para representar números negativos existem 3 propostas:
 	2. Complemento de 1
 	3. Complemento de 2 **(COBRADO NA PROVA)** -> aprender a fazer perto da prova
 
+**Passo a passo -  Complemento de 2**
+1. Passar o numero para binário 
+2. Fazer o complemento de 1: que é inverter os numeros, ou seja, o que é 0 -> 1 e 1-> 0
+3. Somar mais um
+
 
 ### Tipos de Instruções
 - **Tipo R:**

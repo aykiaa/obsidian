@@ -15,8 +15,8 @@ To transfer Bitcoin to another person, you follow a series of steps that utilize
     - Open your wallet and select the option to send Bitcoin.
     - Enter the recipient's public address (Bitcoin address) and the amount of Bitcoin you wish to send.
     - Your wallet will compile this information into a transaction.
-    - 
-3. **Signing the Transaction**:
+    
+1. **Signing the Transaction**:
     
     - To authorize the transaction, you need to sign it with your private key. This step proves that you own the Bitcoin and have the right to send it.
 4. **Broadcasting the Transaction**:
