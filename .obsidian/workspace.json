@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARH - 4. Absenteísmo de Pessoal.md",
+                "file": "大学/ADM-ARH/ARH - 4. Absenteísmo de Pessoal.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "大学/ADM-ARH/ARH - 4. Absenteísmo de Pessoal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "ARH - 4. Absenteísmo de Pessoal"
             }
           }
         ],
@@ -232,14 +232,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64da9b756e1757e4",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
-    "1625298688015.png",
     "README.md",
-    "ARH - 4. Absenteísmo de Pessoal.md",
-    "ARH - 5. Rotatividade de Pessoal.md",
+    "01 - archives/1625298688015.png",
+    "大学/ADM-ARH/ARH - 4. Absenteísmo de Pessoal.md",
+    "大学/ADM-ARH/ARH - 5. Rotatividade de Pessoal.md",
     "todo.md",
-    "Grafos.md",
+    "大学/Alg1/Grafos.md",
     "大学/Alg1/stable-matching 2 - Exercicios.md",
     "大学/ADM-ARH/TEXTO 05 - Toyotismo e “captura” da subjetividade.md",
     "大学/ADM-ARH/TEXTO 04 - A Indústria 4.0 e o Futuro do Trabalho - Tensões e Perspectivas.md",
