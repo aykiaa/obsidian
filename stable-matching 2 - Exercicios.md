@@ -1,5 +1,4 @@
-## Guia de Resolução dos Exercícios do PDF 2
-
+[[stablematching-2.pdf]]
 ### Exercício 1: Casamentos entre pessoas boas e más
 
 **Enunciado:** Considere uma cidade com _n_ homens e _n_ mulheres que desejam se casar com alguém do sexo oposto. Assuma que existem _k_ homens bons e _n-k_ homens maus. Da mesma forma, existem _k_ mulheres boas e _n-k_ mulheres más. Todas as pessoas prefeririam se casar com qualquer pessoa boa do que com qualquer pessoa má. Em outras palavras, os rankings de preferências de todos incluem todas as pessoas boas (em alguma ordem) em posições mais altas do que qualquer pessoa má. Mostre que em qualquer casamento estável, todo homem bom sempre estará casado com uma mulher boa.
