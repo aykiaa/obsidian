@@ -6,8 +6,8 @@
 - [x] Texto 2
 - [x] Slide 3
 - [x] Texto 3
-- [ ] Texto 4
-- [ ] Texto 5
+- [x] Texto 4
+- [x] Texto 5
 - [ ] Slide 4
 - [ ] Slide 5
 - [ ] Texto 10

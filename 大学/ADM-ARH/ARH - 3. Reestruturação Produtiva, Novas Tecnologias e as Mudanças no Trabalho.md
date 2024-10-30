@@ -12,7 +12,7 @@
   A reestruturação produtiva gerou mudanças significativas na gestão e no trabalho:
 
   * **Gestão:** As empresas buscaram *modelos de gestão mais flexíveis e adaptáveis*, com foco na qualidade, eficiência e inovação. Houve uma descentralização da tomada de decisão, *maior autonomia* para os trabalhadores e ênfase na *gestão participativa*.
-  * **Trabalho:** O trabalho se tornou *mais especializado*, exigindo maior qualificação e capacidade de adaptação dos trabalhadores. Surgiram novas formas de trabalho, como a terceirização, o trabalho temporário e o trabalho remoto. A automação e a tecnologia passaram a ter um papel fundamental no processo produtivo, levando à substituição de algumas funções e à criação de novas.
+  * **Trabalho:** O trabalho se tornou *mais especializado*, exigindo maior qualificação e capacidade de adaptação dos trabalhadores. Surgiram novas formas de trabalho, como a *terceirização*, o trabalho temporário e o trabalho remoto. *A automação e a tecnologia* passaram a ter um papel fundamental no processo produtivo, levando à substituição de algumas funções e à criação de novas.
 
 - **Descreva algumas mudanças que estão ocorrendo atualmente na estrutura das organizações.**
 
@@ -59,14 +59,14 @@
 
 - **Explique o que é a 4ª Revolução Industrial e o surgimento da chamada “Indústria 4.0”; mencione seus impactos no trabalho, nas profissões, e nos empregos, daqui para diante.**
 
-  A 4ª Revolução Industrial, um conceito criado por Klaus Schwab, representa uma mudança de paradigma com a *integração de tecnologias digitais*, físicas e biológicas. A Indústria 4.0, parte dessa revolução, foca na *automação* e *digitalização da indústria*, utilizando tecnologias como inteligência artificial, internet das coisas e big data para otimizar processos industrias.
+  A 4ª Revolução Industrial, um conceito criado por Klaus Schwab, representa uma mudança de paradigma com a *integração de tecnologias digitais, físicas e biológicas.* A Indústria 4.0, parte dessa revolução, foca na *automação* e *digitalização da indústria*, utilizando tecnologias como inteligência artificial, internet das coisas e big data para otimizar processos industrias.
   
 
   **Impactos:**
 
-  * **Trabalho:** As tarefas se tornam mais complexas, exigindo habilidades de análise de dados, solução de problemas e tomada de decisão.
+  * **Trabalho:** As *tarefas* se tornam mais *complexas*, exigindo habilidades de análise de dados, solução de problemas e tomada de decisão.
   * **Profissões:** Surgem novas profissões relacionadas à tecnologia e à automação, enquanto outras se tornam obsoletas, 
-  * **Empregos:** A automação pode levar à substituição de empregos em alguns setores, mas também cria oportunidades em áreas relacionadas à tecnologia e à inovação. novas exigências  multidisciplinar, producao adaptavel 
+  * **Empregos:** A automação pode levar à *substituição de empregos* em alguns setores, mas também cria oportunidades em áreas relacionadas à tecnologia e à inovação. Novas exigências multidisciplinar, produção adaptável 
 
   A 4ª Revolução Industrial exige adaptação constante dos trabalhadores e investimento em qualificação para atender às demandas do mercado de trabalho em constante transformação.
 ---
