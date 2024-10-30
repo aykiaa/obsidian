@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6b5f15ea49c609f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações"
-            }
-          },
-          {
             "id": "778d9130d6071658",
             "type": "leaf",
             "state": {
@@ -41,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stable-matching 1.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "stable-matching 1"
+              "title": "README"
+            }
+          },
+          {
+            "id": "975541186192c439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grafos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Grafos"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +133,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -155,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 409,
-    "collapsed": true
+    "width": 409
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -248,11 +246,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a02d2b8a01caae16",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
-    "stable-matching 1.md",
     "todo.md",
+    "README.md",
+    "Grafos.md",
     "TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações.md",
+    "大学/Alg1/stable-matching 1.md",
+    "Untitled.md",
+    "大学/Alg1",
+    "00 - notes/Gramatica/Expressando Gratidão com V-てくれる no Japonês.md",
+    "Untitled 1.md",
     "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
     "大学/ADM-ARH/TEXTO 01 - Por que ir trabalhar com RH.md",
     "大学/ADM-ARH/TEXTO 02 - A Atual Administração de RH.md",
@@ -267,8 +271,6 @@
     "大学/Crypto/Blockchain and Bitcoin.md",
     "Prova 01 - Topicos.md",
     "Pasted image 20241024130938.png",
-    "Untitled 1.md",
-    "README.md",
     "01 - archives/Pasted image 20241023094451.png",
     "01 - archives/Pasted image 20241023094308.png",
     "大学/Crypto",
@@ -281,12 +283,8 @@
     "00 - notes/N3/Exercícios - Week 2.md",
     "00 - notes/N3",
     "01 - archives/Forma ない.md",
-    "00 - notes/Gramatica/Expressando Gratidão com V-てくれる no Japonês.md",
-    "01 - archives/plain form.md",
-    "01 - archives/pininfo.md",
     "01 - archives/jitsu.png",
     "01 - archives/kerebanarimasen.png",
-    "test.md",
     "01 - archives/adjectives_sa.png",
     "01 - archives/plain_form.png",
     "02 - myself",
@@ -294,7 +292,6 @@
     "00 - notes/Expressions",
     "01 - archives/teitemashita.png",
     "01 - archives",
-    "00 - notes",
     "Untitled.canvas",
     "ekaFpax.png"
   ]
