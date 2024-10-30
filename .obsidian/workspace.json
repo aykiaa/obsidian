@@ -140,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325,
-    "collapsed": true
+    "width": 325
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -236,10 +235,10 @@
   "active": "64da9b756e1757e4",
   "lastOpenFiles": [
     "1625298688015.png",
+    "README.md",
+    "ARH - 4. Absenteísmo de Pessoal.md",
     "ARH - 5. Rotatividade de Pessoal.md",
     "todo.md",
-    "ARH - 4. Absenteísmo de Pessoal.md",
-    "README.md",
     "Grafos.md",
     "大学/Alg1/stable-matching 2 - Exercicios.md",
     "大学/ADM-ARH/TEXTO 05 - Toyotismo e “captura” da subjetividade.md",
@@ -280,7 +279,6 @@
     "00 - notes/Gramatica",
     "00 - notes/Expressions",
     "01 - archives/teitemashita.png",
-    "Untitled.canvas",
-    "ekaFpax.png"
+    "Untitled.canvas"
   ]
 }
