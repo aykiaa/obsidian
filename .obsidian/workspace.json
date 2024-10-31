@@ -33,7 +33,7 @@
       {
         "id": "213acfa439c97249",
         "type": "tabs",
-        "dimension": 46.8149646107179,
+        "dimension": 79.77755308392315,
         "children": [
           {
             "id": "e90ae10e9ecbb673",
@@ -99,7 +99,7 @@
       {
         "id": "2eb09d6e91f722e5",
         "type": "tabs",
-        "dimension": 53.1850353892821,
+        "dimension": 20.222446916076844,
         "children": [
           {
             "id": "c8ae29299184ed50",
@@ -115,8 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470,
-    "collapsed": true
+    "width": 470
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -210,23 +209,22 @@
   },
   "active": "07dde572c448f843",
   "lastOpenFiles": [
-    "Pasted image 20241031164010.png",
-    "Pasted image 20241031164003.png",
-    "Pasted image 20241031163952.png",
-    "Pasted image 20241031163800.png",
-    "Pasted image 20241031163626.png",
-    "Pasted image 20241031163348.png",
-    "Pasted image 20241031162655.png",
-    "Pasted image 20241031161555.png",
-    "Pasted image 20241031154557.png",
-    "0_eg5zFvNZw3jB-THg.png",
-    "image.png",
+    "todo.md",
+    "01 - archives/0_eg5zFvNZw3jB-THg.png",
+    "01 - archives/image.png",
+    "01 - archives/Pasted image 20241031164010.png",
+    "01 - archives/Pasted image 20241031154557.png",
+    "大学/Alg1/Grafos - Principais Conceitos.md",
+    "01 - archives/Pasted image 20241031164003.png",
+    "01 - archives/Pasted image 20241031163952.png",
+    "01 - archives/Pasted image 20241031163800.png",
+    "01 - archives/Pasted image 20241031163626.png",
+    "01 - archives/Pasted image 20241031163348.png",
+    "01 - archives/Pasted image 20241031162655.png",
     "01 - archives/stablematching-2.pdf",
     "大学/Alg1/stable-matching 2 - Exercicios.md",
-    "大学/Alg1/Grafos - Principais Conceitos.md",
     "01 - archives/Graphs-aula1.pdf",
-    "TEXTO 10 - Entrevistas de desligamento fazem a diferença.md",
-    "todo.md",
+    "大学/ADM-ARH/TEXTO 10 - Entrevistas de desligamento fazem a diferença.md",
     "大学/ADM-ARH/ARH - 5. Rotatividade de Pessoal.md",
     "大学/ADM-ARH/ARH - 4. Absenteísmo de Pessoal.md",
     "Untitled 1.md",
