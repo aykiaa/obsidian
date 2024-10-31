@@ -100,7 +100,7 @@ Exemplo de ciclo: $C = 1 - 2 - 4 - 5 - 3 - 1$
 
 **Teorema**: Seja $G$ um grafo não direcionado com $n$ nós. Qualquer dois dos seguintes enunciados implicam o terceiro:
 
-- $G$ é conectado.
+- $G$ é conectado -> existe um caminho entre quaisquer nós
 - $G$ não contém ciclos.
 - $G$ tem $n - 1$ arestas.
 
@@ -119,11 +119,6 @@ Dada uma árvore $T$, escolha um nó raiz $r$ e oriente cada aresta para longe d
 **Importância**: Modela a estrutura hierárquica.
 
 ![[Pasted image 20241031163800.png]]
-
----
-
-
-Aqui estão as anotações em Markdown para os novos slides com MathJax:
 
 ---
 
