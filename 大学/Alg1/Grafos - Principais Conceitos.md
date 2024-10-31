@@ -52,14 +52,15 @@ A conectividade em **grafos direcionados difere dos grafos não direcionados.**
 
 ### Tipos de Conectividade em Grafos Direcionados
 
-- **Fortemente Conectado:** Um grafo direcionado é fortemente conectado se, para quaisquer dois nós `u` e `v`, existir um caminho de `u` para `v` **e** um caminho de `v` para `u`.
+- **Fortemente Conectado:** Um grafo *direcionado* é fortemente conectado se, para quaisquer dois nós `u` e `v`, existir um caminho de `u` para `v` **e** um caminho de `v` para `u`.
 - **Fracamente Conectado:** Um grafo direcionado é fracamente conectado se, ao ignorar a direção das arestas, existir um caminho entre quaisquer dois nós.
+
 ![[Pasted image 20241031161555.png]]
 ### Componentes Conectados
 
 Um **componente conectado** de um *grafo não direcionado* é um subgrafo no qual existe um caminho entre quaisquer dois nós. Em outras palavras, todos os nós dentro de um componente conectado estão interligados.
 
-Em um *grafo não-direcionado* $G = (V, E)$, onde $V$ representa o conjunto de vértices (ou nós) e $E$ o conjunto de arestas (ou conexões entre os vértices), um **componente conexo** é um subgrafo $G' = (V', E')$ com as seguintes propriedades:
+Em um *grafo não-direcionado* $G = (V, E)$,  um **componente conexo** é um subgrafo $G' = (V', E')$ com as seguintes propriedades:
 
 1. **Subconjuntos de vértices e arestas**: $V' \subset V$ e $E' \subset E$, ou seja, $G'$ é formado por um subconjunto dos vértices e arestas do grafo original.
 
@@ -86,7 +87,7 @@ Isso é exclusivo de grafos direcionados: se você escolher qualquer vértice $u
 
 ### Ciclos
 
-**Definição:** Um ciclo é um caminho $v_1, v_2, \ldots, v_k$ em que $v_1 = v_k$, $k > 2$, e os primeiros $k-1$ nós, são *todos distintos*
+**Definição:** Um ciclo é um caminho $v_1, v_2, \ldots, v_k$ em que $v_1 = v_k$, $k > 2$, e os primeiros $k-1$ nós, são *todos distintos*, ou seja, não pode repetir vertices
 
 Exemplo de ciclo: $C = 1 - 2 - 4 - 5 - 3 - 1$
 ![[Pasted image 20241031163348.png]]
@@ -105,7 +106,7 @@ Exemplo de ciclo: $C = 1 - 2 - 4 - 5 - 3 - 1$
 
 *Observação:*
 - Remover qualquer aresta de uma árvore desconectará o grafo.
-- Qualquer árvore com $n$ nós tem exatamente $n - 1$ arestas.\
+- Qualquer árvore com $n$ nós tem exatamente $n - 1$ arestas.
 
 ![[Pasted image 20241031163626.png]]
 
