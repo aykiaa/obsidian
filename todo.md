@@ -10,7 +10,8 @@
 - [x] Texto 5
 - [x] Slide 4
 - [x] Slide 5
-- [ ] Texto 10
+- [x] Texto 10
+- [ ] Revisão
 
 
 ### Prova 01 - ALG 1
