@@ -3,5 +3,7 @@
   "accentColor": "#765fc4",
   "monospaceFontFamily": "SN Pro",
   "textFontFamily": "SN Pro",
-  "baseFontSize": 20
+  "baseFontSize": 18,
+  "showViewHeader": true,
+  "nativeMenus": false
 }
