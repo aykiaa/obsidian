@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学/OC/Prova 01 - Topicos.md",
+                "file": "大学/OC/slide 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prova 01 - Topicos"
+              "title": "slide 1"
+            }
+          },
+          {
+            "id": "e81e75a097da00bf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-04 16.47.00.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-04 16.47.00.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325
+    "width": 325,
+    "collapsed": true
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -194,15 +208,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2f7dc37ff02d65b0",
+  "active": "e81e75a097da00bf",
   "lastOpenFiles": [
+    "大学/OC/slide 1.md",
+    "Excalidraw/Drawing 2024-11-04 16.47.00.excalidraw.md",
     "大学/OC/Aula - 03 -  Desempenho.md",
     "大学/OC/Prova 01 - Topicos.md",
+    "Excalidraw",
     "Aula 4 – Aritmética Computacional.md",
-    "大学/OC/slide 1.md",
     "todo.md",
     "README.md",
     "大学/ADM-ARH/TEXTO 05 - Toyotismo e “captura” da subjetividade.md",
@@ -237,14 +254,12 @@
     "Untitled 1.md",
     "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
     "大学/ADM-ARH/TEXTO 01 - Por que ir trabalhar com RH.md",
-    "大学/ADM-ARH/TEXTO 02 - A Atual Administração de RH.md",
     "大学/ADM-ARH",
     "大学/Crypto",
     "大学/OC",
     "大学",
     "00 - notes/N3",
     "02 - myself",
-    "00 - notes/Gramatica",
     "Untitled.canvas"
   ]
 }
