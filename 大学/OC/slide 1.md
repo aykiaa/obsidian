@@ -19,18 +19,21 @@ Para representar números negativos existem 3 propostas:
 	- operaçoes que envvolvem somente registradores
 	- Ex: **ADICAO, SUBTRACAO E MULTIPLICACAO**
 			**```add x1, x2, x3```**
+			**```sub, mul, and, or, xor, sli, sri```**
+			
 
 - **Tipo I:**
 	- **Aritméticas com constantes**, carregamento de dados da memória (instruções **load**), **operações lógicas** com imediato.
 	- Reg de origem (RS1), um imediato (valor constante) e destino (RD)
 	- EX: **la, addi, andi, beq, bne**
-		**``addi x1, x2, 10**
+		**``addi x1, x2, 10
+		**```andi, ori, xori, lw, beq, bne```**
 - **Tipo S:**
 	- Eh o store stype
 	- Armazena dados na memoria (store)
 	- armazenar valores de registradores na memória
 	- EX: **store, load, sw, sd, **
-		```sd x5, 24(x10)```
+		```sw, sh, sb, ```
 
 ### Operações Lógicas
 1. AND: and, andi

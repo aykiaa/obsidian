@@ -33,8 +33,7 @@
               "title": "Drawing 2024-11-04 16.47.00.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -118,8 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325,
-    "collapsed": true
+    "width": 325
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -212,10 +211,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e81e75a097da00bf",
+  "active": "2f7dc37ff02d65b0",
   "lastOpenFiles": [
-    "大学/OC/slide 1.md",
     "Excalidraw/Drawing 2024-11-04 16.47.00.excalidraw.md",
+    "大学/OC/slide 1.md",
     "大学/OC/Aula - 03 -  Desempenho.md",
     "大学/OC/Prova 01 - Topicos.md",
     "Excalidraw",
