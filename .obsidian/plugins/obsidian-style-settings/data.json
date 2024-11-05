@@ -1,10 +1,10 @@
 {
-  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-macchiato",
+  "catppuccin-theme-settings@@catppuccin-theme-dark": "ctp-mocha",
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-chocolate-topaz",
   "blue-topaz-theme@@background-settings-workplace-background-image": false,
   "pln@@font-ui-medium": 20,
   "pln@@font-ui-large": 15,
-  "catppuccin-icon-styles@@ctp-icon-hide": true,
+  "catppuccin-icon-styles@@ctp-icon-hide": false,
   "catppuccin-theme-settings@@catppuccin-theme-accents": "ctp-accent-mauve",
   "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-rosepine-light",
   "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-frappe",
@@ -36,5 +36,7 @@
   "anuppuccin-theme-settings@@anp-simple-rainbow-icon-toggle": false,
   "anuppuccin-theme-settings@@anuppuccin-accent-toggle": false,
   "anuppuccin-theme-settings@@anp-active-line": "anp-no-highlight",
-  "anuppuccin-theme-settings@@anp-header-color-toggle": false
+  "anuppuccin-theme-settings@@anp-header-color-toggle": false,
+  "catppuccin-font-styles@@ctp-bold": "var(--ctp-sapphire)",
+  "catppuccin-tag-styles@@ctp-tag-pill": false
 }

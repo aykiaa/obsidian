@@ -26,24 +26,33 @@
 
 
 ### Prova 01 - ALG 1
-- [x] [[stable-matching 1]]
+
 - [x] [[stable-matching 2 - Exercicios]]
-- [ ] Grafos - Busca em largura e busca em profundidade Arquivo
+- [ ] [[Grafos - Busca em largura e busca em profundidade]]
 - [ ] Grafos - Grafos: Bipartição e componentes fortemente conectadosArquivo
 - [ ] Grafos - ordenação topológica e 2SAT Arquivo
 - [ ] Grafos -- Caminhos mais curtos Arquivo
 - [ ] Grafos - Árvore Geradora Mínima
 
 
+
+
+### 03/11
+
+
+
 ### Prova 01 - OC1
-- [ ] Arquitetura X Organizacao
-- [ ] CPI / Tempo de Execucao
+- [x] Arquitetura X Organizacao
+- [x] CPI / Tempo de Execucao
 - [ ] Interpretar codigo assembly
-- [ ] Tipos de instrucoes R,I,S
-- [ ] pseudo-instrucoes
-- [ ] Numeros Binarios: soma, subtracao e multiplicacao
-- [ ] Complemento de 2
+- [x] Tipos de instrucoes R,I,S
+- [x] pseudo-instrucoes
+- [x] Numeros Binarios: soma, subtracao e multiplicacao
+- [x] Complemento de 2
 - [ ] Saber numero ponto flutuante
 - [ ] Representar no formato cientifico normalizado (sinal-fracao-potencia) e no formato de ponto flutuante
 - [ ] Multiplicacao de ponto flutuante
 - [ ] Mostrar valores em ponto flutuante que geram overflow e underflow
+
+
+
