@@ -123,3 +123,10 @@ Para achar ciclos, run DFS
     - **A**fica cinza e você move para B.
     - **B** fica cinza e você move para C.
     - **C** fica cinza e, ao verificar seus adjacentes, você encontra **A**, que já está cinza. Isso indica um *ciclo*, pois *você retornou a um vértice que ainda estava no processamento.*
+
+
+
+
+## Questões
+
+Se eu tiver uma questao pedindo ir de X para Z em W dias ou em W arestas, utiliza-se BFS
