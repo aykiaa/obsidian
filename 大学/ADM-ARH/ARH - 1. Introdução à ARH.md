@@ -8,10 +8,10 @@ A Administração de Recursos Humanos (ARH) é a função administrativa respons
 
 Gerenciar pessoas é crucial para o sucesso de qualquer empresa. As sete razões principais que justificam essa importância são:
 
-- **Estrutura e Organização:** As empresas precisam de uma estrutura bem definida para alcançar seus objetivos. Isso envolve a divisão de trabalho, atribuição de responsabilidades e a criação de processos eficientes.
-- **Expectativas dos Funcionários:** As pessoas têm expectativas em relação ao trabalho, como salários justos, oportunidades de crescimento e reconhecimento por seus esforços. Ignorar essas expectativas leva à frustração, desmotivação e perda de talentos.
-- **Diversidade da Força de Trabalho:** A força de trabalho moderna é cada vez mais diversa, com pessoas de diferentes idades, gêneros, etnias e origens. A ARH deve garantir um ambiente de trabalho inclusivo e respeitoso para todos.
-- **Conhecimento e Habilidades:** As empresas dependem do conhecimento e das habilidades de seus funcionários para inovar, melhorar a qualidade e aumentar a eficiência. A ARH deve investir no desenvolvimento profissional dos seus colaboradores.
+- **Estrutura e Organização:** As empresas precisam de uma *estrutura bem definida para alcançar seus objetivos.* Isso envolve a divisão de trabalho, atribuição de responsabilidades e a criação de processos eficientes.
+- **Expectativas dos Funcionários:** As pessoas têm *expectativas* em relação ao trabalho, como salários justos, oportunidades de crescimento e reconhecimento por seus esforços. *Ignorar essas expectativas leva à frustração, desmotivação e perda de talentos.*
+- **Diversidade da Força de Trabalho:** A força de trabalho moderna é cada vez *mais diversa, com pessoas de diferentes* idades, gêneros, etnias e origens. A ARH deve garantir um *ambiente de trabalho inclusivo e respeitoso para todos.*
+- **Conhecimento e Habilidades:** As empresas dependem do conhecimento e das habilidades de seus funcionários para inovar, melhorar a qualidade e aumentar a eficiência. A ARH deve investir no *desenvolvimento profissional* dos seus colaboradores.
 - **Conformidade Legal:** As empresas precisam cumprir as leis trabalhistas, regulamentos e acordos sindicais. A ARH garante que a organização esteja em conformidade com todas as obrigações legais.
 - **Controle de Custos:** Os custos com pessoal, como salários, benefícios e treinamento, representam uma parte significativa das despesas de uma empresa. A ARH controla esses custos e busca otimizar os investimentos em pessoas.
 - **Saúde e Segurança:** A ARH é responsável por garantir a saúde, segurança e bem-estar dos funcionários. Isso inclui a criação de um ambiente de trabalho seguro, a prevenção de acidentes e a promoção da qualidade de vida no trabalho.

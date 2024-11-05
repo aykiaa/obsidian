@@ -53,7 +53,7 @@ A ARH deve considerar a influência da organização informal, pois a dinâmica 
 
 ---
 
-# Função de RH e Descentralização das Atividades da ARH
+# Função de RH e Descentralização das atividades da ARH
 
 **Explique o que é a função de RH; descreva a relação entre a função de RH e a descentralização das atividades da ARH.**
 
