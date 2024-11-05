@@ -85,4 +85,41 @@ Aqui está uma anotação em Markdown baseada nas observações e teoremas sobre
 
 ### Análise de Complexidade
 - **BFS e DFS:** O(m + n), linear ao tamanho do grafo se representado por lista de adjacência.
-- **Detecção de Ciclos (DFS):** Se um nó "cinza" for revisitado, há um ciclo no grafo.
+
+A complexidade de tempo para os algoritmos de busca em profundidade (DFS - *Depth-First Search*) e busca em largura (BFS - *Breadth-First Search*) é $O(V + E)$, onde:
+
+- $V$ é o número de vértices no grafo.
+- $E$ é o número de arestas no grafo.
+
+### Explicação da Complexidade
+
+1. **Visita aos vértices**:
+   - Em ambos os algoritmos, cada vértice é visitado no máximo uma vez. Isso ocorre porque, ao visitar um vértice, ele é marcado como "visitado" e não será considerado novamente. Como há $V$ vértices, o custo para visitar todos eles é $O(V)$.
+
+2. **Exploração das arestas**:
+   - Ao visitar cada vértice, o algoritmo verifica suas arestas adjacentes. Como cada aresta conecta dois vértices, o número total de verificações de arestas no grafo é $O(E)$.
+   - Portanto, o custo para explorar todas as arestas é $O(E)$.
+
+Ao somar o custo de visitar os vértices ($O(V)$) com o custo de explorar as arestas ($O(E)$), temos uma complexidade total de $O(V + E)$.
+
+### Observação
+
+Essa complexidade indica que tanto DFS quanto BFS são eficientes para grafos esparsos (onde $E$ é muito menor que $V^2$), pois seu tempo de execução depende diretamente da quantidade de vértices e arestas e não cresce exponencialmente com o tamanho do grafo.
+
+---
+
+### Para achar ciclos
+Para achar ciclos, run DFS
+- Se a DFS encontrar um vértice **cinza** enquanto explora os adjacentes de um vértice atual, isso indica um **ciclo**. Isso acontece porque o vértice cinza é parte de uma "caminhada" em andamento, e encontrá-lo novamente indica que você retornou a um ponto que ainda não foi totalmente processado.
+- Se você encontrar um vértice **preto** enquanto explora os adjacentes, isso não indica um ciclo, pois esse vértice já foi completamente processado.
+- **Exemplo Prático**: Vamos considerar um grafo com vértices AAA, BBB, e CCC, onde temos arestas:
+    
+    - A→B
+    - B→C
+    - C→A
+    
+    Suponha que você inicie a DFS a partir do vértice AAA:
+    
+    - **A**fica cinza e você move para B.
+    - **B** fica cinza e você move para C.
+    - **C** fica cinza e, ao verificar seus adjacentes, você encontra **A**, que já está cinza. Isso indica um *ciclo*, pois *você retornou a um vértice que ainda estava no processamento.*
