@@ -15,9 +15,16 @@
 
 
 ### Prova 01 - ALG 1
-- [x] [[stable-matching 1]]
+
 - [x] [[stable-matching 2 - Exercicios]]
 - [ ] Grafo
 - [ ] Slide 4
 - [ ] Slide 5
 - [ ] Texto 10
+
+
+
+
+### 03/11
+- [ ] Lista ex -  alg1
+- [ ] 1 pptx de oc1
