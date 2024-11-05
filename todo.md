@@ -36,8 +36,8 @@
 
 
 ### Prova 01 - OC1
-- [x] Arquitetura X Organizacao
-- [x] CPI / Tempo de Execucao
+- [ ] Arquitetura X Organizacao
+- [ ] CPI / Tempo de Execucao
 - [ ] Interpretar codigo assembly
 - [ ] Tipos de instrucoes R,I,S
 - [ ] pseudo-instrucoes
