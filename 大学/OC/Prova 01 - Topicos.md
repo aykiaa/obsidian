@@ -1,5 +1,10 @@
 ### Questao 1
 Organizacao X Arquitetura de processadores
+**Organizacao**: é como os compomenets do processasdore estao fisicamente organizados
+**Arquitetura:** é como eh agrupado
+
+
+
 O que influencia o CPI de um programa
 O que influencia o tempo de execucao 
 

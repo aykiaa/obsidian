@@ -51,7 +51,6 @@ A tabela lista alguns fatores que influenciam cada uma das variáveis da fórmul
 
 **OBS**: Assumir que X de ciclos = X de instruções, porém isso é falso já que **instruções gastam tempos diferentes em máquinas diferentes**
 	- diferentes instruções consomem diferentes quantidades de ciclos
-	- 
 	 Algumas instruções podem ser executadas em apenas um ciclo de clock, enquanto outras podem requerer vários ciclos. 
 		 *Por exemplo*, uma *simples adição pode gastar menos ciclos do que uma multiplicação* ou uma operação de acesso à memória.
 	**Máquinas diferentes**: Processadores diferentes podem ter *arquiteturas diferentes*, o que significa que uma *mesma instrução pode ser executada em diferentes quantidades de ciclos dependendo do design do processador.* 

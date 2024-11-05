@@ -11,14 +11,12 @@
             "id": "07dde572c448f843",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "大学/OC/Prova 01 - Topicos.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2024-11-04 16.47.00.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Prova 01 - Topicos"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-04 16.47.00.excalidraw"
             }
           }
         ]
@@ -204,11 +202,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "07dde572c448f843",
   "lastOpenFiles": [
+    "大学/OC/Prova 01 - Topicos.md",
+    "todo.md",
+    "Untitled.md",
+    "Excalidraw/Drawing 2024-11-04 16.47.00.excalidraw.md",
+    "Excalidraw",
+    "Aula 4 – Aritmética Computacional.md",
     "大学/OC/Aula - 03 -  Desempenho.md",
     "大学/Alg1/Grafos - Principais Conceitos.md",
     "大学/Alg1/stable-matching 2 - Exercicios.md",
@@ -224,7 +229,6 @@
     "大学/ADM-ARH/ARH - 3. Reestruturação Produtiva, Novas Tecnologias e as Mudanças no Trabalho.md",
     "大学/ADM-ARH/ARH - 4. Absenteísmo de Pessoal.md",
     "大学/ADM-ARH/TEXTO 04 - A Indústria 4.0 e o Futuro do Trabalho - Tensões e Perspectivas.md",
-    "todo.md",
     "01 - archives/0_eg5zFvNZw3jB-THg.png",
     "01 - archives/image.png",
     "01 - archives/Pasted image 20241031164010.png",
@@ -241,19 +245,15 @@
     "大学/Alg1",
     "大学/ADM-ARH",
     "README.md",
-    "大学/OC/Prova 01 - Topicos.md",
     "Aula - 03 -  Desempenho.md",
     "大学/OC/slide 1.md",
     "大学/OC",
     "大学/Crypto/Types of encryption.md",
     "大学/Crypto/Blockchain and Bitcoin.md",
     "大学/Crypto",
-    "大学/oc/OC1.md",
     "大学/oc",
     "大学",
-    "00 - notes/N3/食べちゃった - Responder de forma coloquial.md",
     "00 - notes/N3",
-    "02 - myself",
     "Untitled.canvas"
   ]
 }
