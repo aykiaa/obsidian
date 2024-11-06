@@ -107,6 +107,5 @@ A **primeira DFS** coleta informações sobre a estrutura do grafo através dos 
 
 
 
-
 #### **Aplicações de Grafos Direcionados:**
 - Utilizados em web (grafo de páginas e hyperlinks), fluxo de controle em programas, redes de transporte, entre outros.
