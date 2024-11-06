@@ -45,42 +45,68 @@ Dado um grafo, ele identifica *todos os componentes fortemente conectados (SCC)*
   2. **Transpor o grafo:** Inverter todas as arestas.
   3. **DFS no grafo transposto:** Seguir a ordem decrescente dos tempos de término - $t[v]$, ou seja, começando do maior tempo. Cada árvore gerada representa um SCC.
   ![[Pasted image 20241106105705.png]]
-![[Pasted image 20241106105716.png]]
-- **Teoremas Importantes:**
+![[Pasted image 20241106105912.png]]
+
+
+
+
+**Teoremas Importantes:**
   - **Teorema 1:** Se $C$ e $C'$ são SCCs distintos e existe uma aresta de $u \in C$ para $v \in C'$, então o tempo de término de $C$ é maior que o de $C'$.
+  ![[Pasted image 20241106110218.png]]
   - **Teorema 2:** No grafo transposto, a relação de tempos de término se inverte.
   - **Teorema 3:** O Algoritmo de Kosaraju identifica corretamente os SCCs, garantindo que cada DFS no grafo transposto se restringe a um único componente.
 
 - **Complexidade de Tempo:** $O(|V| + |E|)$, onde $|V|$ é o número de vértices e $|E|$, o número de arestas.
 
+
+
+### Como e Por Que o Algoritmo de Kosaraju Funciona
+
+O **Algoritmo de Kosaraju** é utilizado para encontrar todos os **componentes fortemente conectados (SCCs)** de um grafo direcionado. Ele explora as propriedades de **busca em profundidade (DFS)** e a **reversão de arestas** para identificar essas componentes de forma eficiente.
+
+#### **Passo a Passo do Algoritmo**
+1. **Primeira DFS no Grafo Original:**
+   - Execute uma DFS no grafo original para calcular os **tempos de término** de cada nó.
+   - O tempo de término é atribuído a cada nó quando a DFS finaliza a exploração daquele nó.
+   - Resultado: Uma ordem dos nós baseada nos tempos de término (do maior para o menor).
+
+2. **Transposição do Grafo (Grafo Reverso):**
+   - Inverta todas as arestas do grafo original, criando o **grafo transposto**.
+   - Se havia uma aresta de $u \to v$ no grafo original, agora haverá uma aresta de $v \to u$.
+
+3. **Segunda DFS no Grafo Transposto:**
+   - Execute a DFS no grafo transposto, seguindo a **ordem decrescente** dos tempos de término obtidos na primeira DFS.
+   - Cada vez que uma nova DFS é iniciada, ela descobre todos os nós pertencentes ao mesmo SCC.
+
+#### **Por Que o Algoritmo Funciona**
+
+O algoritmo se baseia em duas propriedades fundamentais:
+
+1. **A ordem decrescente dos tempos de término garante que os SCCs sejam processados na sequência correta.**
+   - O nó com maior tempo de término em um SCC $C$ será o primeiro a ser processado no grafo transposto.
+   - Se existe uma aresta de $C$ para outro SCC $C'$, o tempo de término de $C$ será maior que o de $C'$. Assim, $C'$ já terá sido completamente explorado antes de começar a explorar $C$.
+
+2. **O grafo transposto preserva a estrutura interna dos SCCs.**
+   - A inversão das arestas não altera a conectividade interna dos SCCs, mas sim a direção das conexões entre SCCs distintos.
+   - Quando a DFS no grafo transposto começa em um nó, ela só alcança nós dentro do mesmo SCC, já que todas as conexões de saída do SCC apontam para SCCs já processados (devido à ordem de tempo de término).
+
+#### **Intuição Visual**
+
+- **Grafo Original:** DFS coleta tempos de término. Os SCCs podem ser vistos como "ilhas" fortemente conectadas.
+- **Grafo Transposto:** A DFS explora essas ilhas em uma ordem que respeita a hierarquia das conexões entre SCCs.
+
+#### **Complexidade de Tempo**
+- A execução de duas DFS (uma no grafo original e outra no transposto) e a construção do grafo transposto têm complexidade $O(|V| + |E|)$, onde:
+  - $|V|$ é o número de vértices.
+  - $|E|$ é o número de arestas.
+  
+Assim, o algoritmo é eficiente mesmo para grafos grandes.
+
+#### **Por Que Kosaraju é Correto**
+A **primeira DFS** coleta informações sobre a estrutura do grafo através dos tempos de término. A **segunda DFS** garante que todos os nós de um SCC sejam visitados juntos, pois as arestas entre SCCs já foram "direcionadas corretamente" pela inversão do grafo. Essas duas etapas em conjunto asseguram que cada SCC seja identificado de forma independente.
+
+
+
+
 #### **Aplicações de Grafos Direcionados:**
 - Utilizados em web (grafo de páginas e hyperlinks), fluxo de controle em programas, redes de transporte, entre outros.
-
-#### **Notas Extras:**
-- Grafos bipartidos e SCCs são conceitos cruciais em teoria de grafos, com aplicações práticas que vão de otimização a análise de redes.
-
-
-
-
-
-
-
-
-
-### Algoritmo de Kosaraju
-
-- O algoritmo de Kosaraju é usado para encontrar os componentes fortemente conectados de um grafo direcionado.
-    
-- **Etapas do algoritmo de Kosaraju:**
-    
-    1. Executar DFS no grafo original e calcular os tempos de término de cada nó.
-    2. Calcular o grafo reverso, invertendo a direção de todas as arestas.
-    3. Executar DFS no grafo reverso, considerando os nós na ordem decrescente de seus tempos de término.
-    4. Cada árvore gerada pelo DFS no grafo reverso representa um componente fortemente conectado.
-- **Exemplo de execução do algoritmo de Kosaraju:**
-    
-- **Por que o algoritmo de Kosaraju funciona?**
-    
-    - O algoritmo se baseia na ideia de que, se houver uma aresta de um componente C para outro componente C', o maior tempo de término de um nó em C será maior que o maior tempo de término de um nó em C'.
-    - Ao executar o DFS no grafo reverso na ordem decrescente dos tempos de término, o algoritmo garante que cada componente fortemente conectado seja visitado antes de quaisquer componentes que tenham arestas direcionadas para ele.
-- **Complexidade de tempo do algoritmo de Kosaraju:** O(V + E), onde V é o número de nós e E é o número de arestas no grafo.
