@@ -121,7 +121,7 @@ Demonstrar situações onde ocorrem **overflow** e **underflow**.
 - **Underflow:** Ocorre quando o expoente é menor que o valor mínimo permitido ($E_{\text{min}} = 0$).
 
 #### **Exemplo de Overflow:**  
-1. Valor máximo de expoente ajustado: $E = 31$.  
+1. Valor máximo de expoente ajustado: $E = 31$, obtido pois em 5 bits temos 16 + 8 + 4 + 2 + 1 = 31
 2. Representação máxima:  
    $$
    1,1111111_2 \times 2^{16}
