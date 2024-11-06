@@ -36,6 +36,18 @@
             }
           },
           {
+            "id": "d7e8b68d985af8c5",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "f0815f476a832df8",
             "type": "leaf",
             "state": {
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -137,7 +149,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -247,11 +260,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "fdd4f1bb035ce2de",
+  "active": "d7e8b68d985af8c5",
   "lastOpenFiles": [
     "Pasted image 20241104220940.png",
     "Pasted image 20241104220934.png",
