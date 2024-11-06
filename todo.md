@@ -28,10 +28,10 @@
 ### Prova 01 - ALG 1
 
 - [x] [[stable-matching 2 - Exercicios]]
-- [ ] [[Grafos - Busca em largura e busca em profundidade]]
-- [ ] Grafos - Grafos: Bipartição e componentes fortemente conectadosArquivo
-- [ ] Grafos - ordenação topológica e 2SAT Arquivo
-- [ ] Grafos -- Caminhos mais curtos Arquivo
+- [x] [[Grafos - Busca em largura e busca em profundidade]]
+- [ ] [[Grafos - Grafos Bipartição e componentes fortemente]]
+- [ ] Grafos - ordenação topológica e 2SAT 
+- [ ] Grafos -- Caminhos mais curtos 
 - [ ] Grafos - Árvore Geradora Mínima
 
 
