@@ -29,7 +29,7 @@
 
 - [x] [[stable-matching 2 - Exercicios]]
 - [x] [[Grafos - Busca em largura e busca em profundidade]]
-- [ ] [[Grafos - Grafos Bipartição e componentes fortemente]]
+- [x] [[Grafos - Grafos Bipartição e componentes fortemente]]
 - [ ] Grafos - ordenação topológica e 2SAT 
 - [ ] Grafos -- Caminhos mais curtos 
 - [ ] Grafos - Árvore Geradora Mínima
@@ -49,10 +49,10 @@
 - [x] pseudo-instrucoes
 - [x] Numeros Binarios: soma, subtracao e multiplicacao
 - [x] Complemento de 2
-- [ ] Saber numero ponto flutuante
-- [ ] Representar no formato cientifico normalizado (sinal-fracao-potencia) e no formato de ponto flutuante
-- [ ] Multiplicacao de ponto flutuante
-- [ ] Mostrar valores em ponto flutuante que geram overflow e underflow
+- [x] Saber numero ponto flutuante
+- [x] Representar no formato cientifico normalizado (sinal-fracao-potencia) e no formato de ponto flutuante
+- [x] Multiplicacao de ponto flutuante
+- [x] Mostrar valores em ponto flutuante que geram overflow e underflow
 
 
 
