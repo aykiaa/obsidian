@@ -15,3 +15,5 @@
 	tem o SHA2-256 E SHA3-256
 - Merkle Tree
 - Algoritmo simetrico: AES e DES
+- Nao vai cobrar sobre RSA a fundo
+
