@@ -108,8 +108,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -130,8 +129,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470,
-    "collapsed": true
+    "width": 470
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -225,7 +223,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b498cc2438da566a",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
     "Pasted image 20241106110218.png",
     "Pasted image 20241106105912.png",
