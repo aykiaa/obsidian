@@ -11,18 +11,18 @@
 - [x] Slide 4
 - [x] Slide 5
 - [x] Texto 10
-- [ ] Revisão
+- [x] Revisão
 	- [x] [[ARH - 1. Introdução à ARH]]
 	- [x] [[ARH - 2. Fundamentos da ARH]]
 	- [x] [[ARH - 3. Reestruturação Produtiva, Novas Tecnologias e as Mudanças no Trabalho]]
-	- [ ] [[ARH - 4. Absenteísmo de Pessoal]]
-	- [ ] [[ARH - 5. Rotatividade de Pessoal]]
+	- [x] [[ARH - 4. Absenteísmo de Pessoal]]
+	- [x] [[ARH - 5. Rotatividade de Pessoal]]
 	- [x] [[TEXTO 01 - Por que ir trabalhar com RH]]
 	- [x] [[TEXTO 02 - A Atual Administração de RH]]
 	- [x] [[TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações]]
-	- [ ] [[TEXTO 04 - A Indústria 4.0 e o Futuro do Trabalho - Tensões e Perspectivas]]
-	- [ ] [[TEXTO 05 - Toyotismo e “captura” da subjetividade]]
-	- [ ] [[TEXTO 10 - Entrevistas de desligamento fazem a diferença]]
+	- [x] [[TEXTO 04 - A Indústria 4.0 e o Futuro do Trabalho - Tensões e Perspectivas]]
+	- [x] [[TEXTO 05 - Toyotismo e “captura” da subjetividade]]
+	- [x] [[TEXTO 10 - Entrevistas de desligamento fazem a diferença]]
 
 
 ### Prova 01 - ALG 1
@@ -44,7 +44,7 @@
 ### Prova 01 - OC1
 - [x] Arquitetura X Organizacao
 - [x] CPI / Tempo de Execucao
-- [ ] Interpretar codigo assembly
+- [x] Interpretar codigo assembly
 - [x] Tipos de instrucoes R,I,S
 - [x] pseudo-instrucoes
 - [x] Numeros Binarios: soma, subtracao e multiplicacao
