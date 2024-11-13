@@ -24,7 +24,7 @@
 
 - Amparadas pela CLT.
 - Não geram prejuízos salariais ou para a rescisão de contrato.
-- Exemplos: Falecimento de familiar, casamento, nascimento de filho, doação de sangue, serviço militar, licença-maternidade, etc.
+	- Exemplos: Falecimento de familiar, casamento, nascimento de filho, doação de sangue, serviço militar, licença-maternidade, etc.
 
 **Faltas Não Justificadas:**
 
