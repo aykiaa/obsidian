@@ -22,7 +22,11 @@
 	- [x] [[TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações]]
 	- [x] [[TEXTO 04 - A Indústria 4.0 e o Futuro do Trabalho - Tensões e Perspectivas]]
 	- [x] [[TEXTO 05 - Toyotismo e “captura” da subjetividade]]
+<<<<<<< HEAD
 	- [ ] [[TEXTO 10 - Entrevistas de desligamento fazem a diferença]]
+=======
+	- [x] [[TEXTO 10 - Entrevistas de desligamento fazem a diferença]]
+>>>>>>> f6e8ae2075f7801a277c99cfe29d593fb79db3a4
 
 
 ### Prova 01 - ALG 1
@@ -44,7 +48,7 @@
 ### Prova 01 - OC1
 - [x] Arquitetura X Organizacao
 - [x] CPI / Tempo de Execucao
-- [ ] Interpretar codigo assembly
+- [x] Interpretar codigo assembly
 - [x] Tipos de instrucoes R,I,S
 - [x] pseudo-instrucoes
 - [x] Numeros Binarios: soma, subtracao e multiplicacao
