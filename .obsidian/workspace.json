@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todo.md",
+                "file": "00 - notes/Gramatica/Condicional - ば - なければ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todo"
+              "title": "Condicional - ば - なければ"
+            }
+          },
+          {
+            "id": "e54122dea37b1891",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -198,14 +212,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8aca19b2be115379",
+  "active": "e54122dea37b1891",
   "lastOpenFiles": [
-    "Controle de faltas.md",
+    "00 - notes/Gramatica/Concessão,  excessão - くても - でも.md",
+    "00 - notes/Gramatica/Condicional - ば - なければ.md",
+    "00 - notes/Gramatica/ければなりません.md",
+    "00 - notes/Expressions/Maneira de terminar uma frase - けど.md",
+    "00 - notes/Expressions/Conectar duas frases - から_けど.md",
+    "00 - notes/Expressions/なら.md",
+    "00 - notes/Expressions/じつは - ~たんです.md",
+    "00 - notes/Expressions/って言って（い）ました（よ）.md",
+    "00 - notes/Gramatica/イA＋さ - ナA＋さ.md",
+    "todo.md",
     "Untitled 1.md",
+    "Controle de faltas.md",
     "Prova - Crypto.md",
     "README.md",
     "大学/Alg1/Grafos - ordenação topológica e 2SAT.md",
-    "todo.md",
     "Untitled.md",
     "Excalidraw/Tipos de Instrucoes.md",
     "大学/OC/slide 1.md",
@@ -217,15 +240,6 @@
     "大学/Alg1/Grafos - Busca em largura e busca em profundidade.md",
     "大学/ADM-ARH/ARH - 4. Absenteísmo de Pessoal.md",
     "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
-    "大学/ADM-ARH/TEXTO 02 - A Atual Administração de RH.md",
-    "大学/ADM-ARH/TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações.md",
-    "大学/ADM-ARH/TEXTO 04 - A Indústria 4.0 e o Futuro do Trabalho - Tensões e Perspectivas.md",
-    "大学/ADM-ARH/TEXTO 05 - Toyotismo e “captura” da subjetividade.md",
-    "大学/ADM-ARH/TEXTO 01 - Por que ir trabalhar com RH.md",
-    "大学/ADM-ARH/ARH - 5. Rotatividade de Pessoal.md",
-    "大学/ADM-ARH/ARH - 3. Reestruturação Produtiva, Novas Tecnologias e as Mudanças no Trabalho.md",
-    "大学/ADM-ARH/ARH - 2. Fundamentos da ARH.md",
-    "大学/ADM-ARH/TEXTO 10 - Entrevistas de desligamento fazem a diferença.md",
     "01 - archives/Pasted image 20241106102421.png",
     "01 - archives/Pasted image 20241106102635.png",
     "01 - archives/Pasted image 20241106110218.png",
