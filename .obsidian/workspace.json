@@ -11,14 +11,24 @@
             "id": "4ef6263bad2392df",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Week 1 - Machine Learning Algorithms.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Tipos de Instrucoes.md"
               },
-              "icon": "lucide-file",
-              "title": "Week 1 - Machine Learning Algorithms"
+              "icon": "excalidraw-icon",
+              "title": "Tipos de Instrucoes"
+            }
+          },
+          {
+            "id": "d18099e5a31c503b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-30 10.41.57.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-30 10.41.57.excalidraw"
             }
           },
           {
@@ -225,18 +235,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7b0c0c9c700ce1fe",
+  "active": "d18099e5a31c503b",
   "lastOpenFiles": [
-    "Week 1 - Machine Learning Algorithms.md",
     "Linear Regression.md",
-    "Untitled 2.md",
+    "Excalidraw/Drawing 2024-11-30 10.41.57.excalidraw.md",
+    "Excalidraw/Tipos de Instrucoes.md",
+    "ex.md",
     "Untitled 1.md",
+    "Untitled 2.md",
+    "Week 1 - Machine Learning Algorithms.md",
     "大学/Crypto/Prova - Crypto.md",
     "大学/Controle de faltas.md",
     "大学/Alg1/Grafos - ordenação topológica e 2SAT.md",
     "README.md",
     "todo.md",
-    "Untitled.md",
     "Prova - Crypto.md",
     "大学/ADM-ARH/TEXTO 10 - Entrevistas de desligamento fazem a diferença.md",
     "大学/ADM-ARH/TEXTO 05 - Toyotismo e “captura” da subjetividade.md",
@@ -251,7 +263,6 @@
     "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
     "Grafos - Grafos Bipartição e componentes fortemente.md",
     "大学/OC/Aula 5 - Ponto flutuante.md",
-    "大学/Alg1/Grafos - Grafos Bipartição e componentes fortemente.md",
     "01 - archives/Pasted image 20241106110218.png",
     "01 - archives/Pasted image 20241106105912.png",
     "01 - archives/Pasted image 20241106105716.png",
@@ -262,7 +273,6 @@
     "01 - archives/Pasted image 20241106103018.png",
     "01 - archives/Pasted image 20241106102635.png",
     "01 - archives/Pasted image 20241106102421.png",
-    "大学/Alg1/Grafos - Busca em largura e busca em profundidade.md",
     "Excalidraw",
     "01 - archives/stablematching-2.pdf",
     "01 - archives/Graphs-aula1.pdf",
