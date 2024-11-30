@@ -3,6 +3,7 @@
 **Estrutura**
 - イA＋さ (tira o い) —> すばらし~~い~~ → すばらし**さ**
 - ナA＋さ (tira o な) —> かんたん~~な~~ → かんたん**さ**
+- さそい~~ます~~ → さそい
 
 **Sentido**
 - Forms adjectives and verbs into nouns.
