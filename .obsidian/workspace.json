@@ -94,7 +94,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -212,6 +213,7 @@
   },
   "active": "d18099e5a31c503b",
   "lastOpenFiles": [
+    "Pasted image 20241130110220.png",
     "linear_regression.excalidraw.md",
     "Linear Regression.md",
     "Excalidraw/linear_regression.excalidraw.md",
@@ -237,7 +239,6 @@
     "大学/ADM-ARH/ARH - 3. Reestruturação Produtiva, Novas Tecnologias e as Mudanças no Trabalho.md",
     "大学/ADM-ARH/ARH - 2. Fundamentos da ARH.md",
     "大学/ADM-ARH/ARH - 1. Introdução à ARH.md",
-    "Grafos - Grafos Bipartição e componentes fortemente.md",
     "01 - archives/Pasted image 20241106110218.png",
     "01 - archives/Pasted image 20241106105912.png",
     "01 - archives/Pasted image 20241106105716.png",

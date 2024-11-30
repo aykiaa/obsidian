@@ -8,3 +8,7 @@
 - m = number of training examples
 
 
+## Cost function
+
+![[Pasted image 20241130110220.png]]
+
