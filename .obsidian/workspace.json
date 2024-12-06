@@ -4,24 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "2ee5bb63db2725ba",
+        "id": "b00dc1d7ae6f9c1e",
         "type": "tabs",
         "children": [
           {
-            "id": "1f5cbbcf5bed4536",
+            "id": "24e6450dfd59eae2",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "ba48f5c7b90d6129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 1 - Machine Learning Algorithms.md",
+                "file": "Prova2 - OC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Week 1 - Machine Learning Algorithms"
+              "title": "Prova2 - OC"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +94,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -199,12 +208,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f5cbbcf5bed4536",
+  "active": "ba48f5c7b90d6129",
   "lastOpenFiles": [
+    "Prova2 - OC.md",
+    "Week 1 - Machine Learning Algorithms.md",
     "Untitled.md",
     "todo.md",
     "Linear Regression.md",
-    "Week 1 - Machine Learning Algorithms.md",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",
     "01 - archives/Pasted image 20241203155104.png",
