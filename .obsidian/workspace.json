@@ -8,15 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24e6450dfd59eae2",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
             "id": "ba48f5c7b90d6129",
             "type": "leaf",
             "state": {
@@ -30,8 +21,7 @@
               "title": "Prova2 - OC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +84,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
