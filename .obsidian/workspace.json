@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "065afe665b601a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "d212084ea258a9a7",
             "type": "leaf",
             "state": {
@@ -33,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "ARH - 7. Desenho e Descrição de Cargos"
+            }
+          },
+          {
+            "id": "b7c0d11f0fc24386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARH - 8. Planejamento de RH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARH - 8. Planejamento de RH"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,12 +238,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8c8c0e5c81c6944",
+  "active": "b7c0d11f0fc24386",
   "lastOpenFiles": [
-    "ARH - 7. Desenho e Descrição de Cargos.md",
     "Prova 2 - RH.md",
-    "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 2.docx",
+    "ARH - 8. Planejamento de RH.md",
+    "ARH - 7. Desenho e Descrição de Cargos.md",
     "README.md",
+    "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 2.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 1.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2.docx",
     "大学/OC/Prova 02 - OC - Resumo.md",
@@ -278,7 +279,6 @@
     "大学/ADM-ARH/TEXTO 03 - O pos-fordismo a reestruturação produtiva e as organizações.md",
     "大学/ADM-ARH/TEXTO 02 - A Atual Administração de RH.md",
     "大学/ADM-ARH/TEXTO 01 - Por que ir trabalhar com RH.md",
-    "大学/ADM-ARH/ARH - 5. Rotatividade de Pessoal.md",
     "Excalidraw",
     "01 - archives/stablematching-2.pdf",
     "01 - archives/Graphs-aula1.pdf",
