@@ -1,10 +1,7 @@
-Segue a formatação ajustada para o conteúdo solicitado:
-
----
 
 ### 1. Descrição dos cargos e sua importância
 
-Os cargos são unidades estruturais da organização, compostas por tarefas e responsabilidades desempenhadas por uma pessoa em uma posição formal na estrutura da empresa. Eles surgem da divisão racional do trabalho, buscando distribuir tarefas e atividades de forma equilibrada para especializar o trabalhador e evitar sobrecarga.
+Os cargos são **unidades estruturais** da organização, compostas por tarefas e responsabilidades desempenhadas por uma pessoa em uma posição formal na estrutura da empresa. Eles surgem da divisão racional do trabalho, buscando distribuir tarefas e atividades de forma equilibrada para especializar o trabalhador e evitar sobrecarga.
 
 **A importância dos cargos reside em:**
 
@@ -18,7 +15,7 @@ Os cargos são unidades estruturais da organização, compostas por tarefas e re
 
 ### 2. Desenho de cargos: papel, aspectos e diferenciação da descrição de cargos
 
-O desenho de cargos representa a perspectiva macro da gestão de cargos. Seu papel é organizar os cargos em uma estrutura que engloba funções, hierarquias de comando e níveis de decisão, resultando em um organograma.
+O desenho de cargos representa a **perspectiva macro** da gestão de cargos. Seu papel é **organizar os cargos** em uma estrutura que engloba funções, hierarquias de comando e níveis de decisão, resultando em um **organograma.**
 
 **Aspectos que impactam o desenho dos cargos:**
 
@@ -32,7 +29,7 @@ O desenho de cargos representa a perspectiva macro da gestão de cargos. Seu pap
 
 **Diferença entre desenho e descrição de cargos:**
 
-- **Desenho**: define a estrutura geral dos cargos e suas relações, focando na organização como um todo.
+- **Desenho**: define a **estrutura geral dos cargos** e suas relações, focando na organização como um todo.
 - **Descrição**: detalha as tarefas, responsabilidades e condições de trabalho de cada cargo individualmente, focando no cargo específico.
 
 ---
@@ -58,7 +55,6 @@ O desenho de cargos representa a perspectiva macro da gestão de cargos. Seu pap
 A **CBO** é uma descrição formal e detalhada de todos os cargos e profissões no Brasil, disponível em [CBO](http://www.mtecbo.gov.br/cbosite/pages/home.jsf).
 
 **Relevância:**
-
 - Padroniza a descrição dos cargos e profissões.
 - Fornece informações sobre tarefas, formação, instrumentos, riscos e condições de trabalho.
 - Auxilia as empresas a organizar e descrever seus cargos de forma sistematizada.
@@ -68,10 +64,9 @@ A **CBO** é uma descrição formal e detalhada de todos os cargos e profissões
 
 ### 6. Análise de cargos: conceito e importância
 
-A análise de cargos é o processo de investigar a situação atual dos cargos na empresa, utilizando um comitê de avaliação e coletando dados sobre tarefas, responsabilidades e condições de trabalho.
+A análise de cargos é o processo de **investigar a situação atual dos cargos na empresa,** utilizando um comitê de avaliação e coletando dados sobre tarefas, responsabilidades e condições de trabalho.
 
 **Importância:**
-
 - Montar ou revisar a estrutura organizacional.
 - Diagnosticar a distribuição do trabalho na empresa, identificando problemas e propondo soluções.
 - Identificar hiatos funcionais e sobreposições de tarefas.
@@ -83,10 +78,9 @@ A análise de cargos é o processo de investigar a situação atual dos cargos n
 
 ### 7. Descrição de cargos: conceito, importância e condições básicas
 
-A descrição de cargos formaliza o relato dos cargos, detalhando tarefas, responsabilidades e especificações para o ocupante, permitindo a comparação entre diferentes cargos.
+A descrição de cargos **formaliza o relato dos cargos, detalhando tarefas, responsabilidades e especificações** para o ocupante, permitindo a comparação entre diferentes cargos.
 
 **Importância:**
-
 - Organiza e distribui o trabalho na empresa.
 - Orienta e ajusta o trabalhador ao seu cargo.
 - Fornece subsídios para processos de RH, como recrutamento, seleção, treinamento e salários.
@@ -103,16 +97,14 @@ A descrição de cargos formaliza o relato dos cargos, detalhando tarefas, respo
 
 ### 8. Fatores de especificação de cargos: conceito, importância e áreas de subdivisão
 
-Os fatores de especificação de cargos são os requisitos, responsabilidades, esforços e condições de trabalho impostos ao ocupante do cargo.
+Os fatores de especificação de cargos são os **requisitos, responsabilidades, esforços e condições de trabalho impostos ao ocupante do cargo.**
 
 **Importância:**
-
 - Identificar as diferenças qualitativas entre os cargos de um grupo ocupacional.
 - Auxiliar na definição de salários, treinamento e recrutamento.
 - Fornecer informações importantes sobre a natureza do trabalho.
 
 **Áreas de subdivisão:**
-
 - **Mental**: conhecimentos teóricos e práticos, inteligência, capacidade técnica, nível de autonomia e supervisão.
 - **Responsabilidades**: exigências para evitar danos à produção, ao patrimônio e à imagem da empresa.
 - **Física**: desgastes e esforços físicos, como tensões, movimentos, posições, deslocamentos.
@@ -123,25 +115,20 @@ Os fatores de especificação de cargos são os requisitos, responsabilidades, e
 ### 9. Regras para descrever tarefas e especificação dos cargos
 
 **Tarefas:**
-
 - Iniciar a descrição com um verbo na terceira pessoa do presente do indicativo ou no infinitivo.
 - Descrever o que, como e por que a tarefa é realizada, incluindo a frequência.
 - Descrever em ordem de importância ou cronologia.
 
 **Especificação:**
-
 - Ser clara, objetiva e padronizada, descrevendo o cargo, não a pessoa que o ocupa.
 - Descrever os fatores (esforço, risco, responsabilidade), frequência, intensidade e volume.
 - Utilizar advérbios de intensidade para quantificar os fatores.
-
 ---
-
 ### 10. Plano ou Catálogo de Cargos
 
 O Plano ou Catálogo de Cargos é a reunião das descrições e especificações dos cargos em volumes, geralmente organizados por grupo ocupacional.
 
 **Objetivos:**
-
 - Recrutamento e seleção.
 - Treinamento.
 - Plano de carreiras.

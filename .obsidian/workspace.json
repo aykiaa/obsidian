@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARH - 7. Desenho e Descrição de Cargos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARH - 7. Desenho e Descrição de Cargos"
-            }
-          },
-          {
-            "id": "b7c0d11f0fc24386",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARH - 8. Planejamento de RH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARH - 8. Planejamento de RH"
-            }
-          },
-          {
-            "id": "f8c8c0e5c81c6944",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Prova 2 - RH.md",
                 "mode": "source",
                 "source": false
@@ -50,21 +22,21 @@
             }
           },
           {
-            "id": "82ac05e5d4e9a569",
+            "id": "ea6eb8ffbfbc140e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEXTO 16 – Processo Sucessório.md",
+                "file": "ARH - 7. Desenho e Descrição de Cargos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEXTO 16 – Processo Sucessório"
+              "title": "ARH - 7. Desenho e Descrição de Cargos"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -252,12 +224,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82ac05e5d4e9a569",
+  "active": "ea6eb8ffbfbc140e",
   "lastOpenFiles": [
     "Prova 2 - RH.md",
-    "TEXTO 16 – Processo Sucessório.md",
-    "ARH - 8. Planejamento de RH.md",
     "ARH - 7. Desenho e Descrição de Cargos.md",
+    "ARH - 8. Planejamento de RH.md",
+    "TEXTO 16 – Processo Sucessório.md",
     "README.md",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 2.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 1.docx",
