@@ -84,8 +84,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -199,7 +198,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ba48f5c7b90d6129",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
     "Prova2 - OC.md",
     "Week 1 - Machine Learning Algorithms.md",
