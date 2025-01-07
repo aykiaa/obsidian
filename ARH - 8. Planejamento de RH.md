@@ -43,7 +43,6 @@
 O planejamento de RH se baseia em:
 
 - **Diagnóstico ambiental**: Analisa as oportunidades e ameaças do mercado de trabalho.
-    
     - Contexto econômico e mudanças no mercado de trabalho.
     - Tendências competitivas.
     - Mudanças tecnológicas.
@@ -51,8 +50,8 @@ O planejamento de RH se baseia em:
     - Preocupações sociais e ecológicas.
     - Tendências demográficas da mão de obra.
     - Disponibilidade de profissionais qualificados.
-- **Diagnóstico organizacional**: Analisa os pontos fortes e fracos da empresa em termos de pessoal.
     
+- **Diagnóstico organizacional**: Analisa os pontos fortes e fracos da empresa em termos de pessoal.
     - Características demográficas do quadro profissional.
     - Nível de mobilidade interna e rotatividade de pessoal.
     - Padrões de contratação de mão de obra.

@@ -41,7 +41,6 @@
 • Função de cada estágio (IF, ID, EX, MEM, WB) e quais sinais estão ativos em cada etapa.
 
 • Especificidade dos sinais em instruções como load e branch.
-
   
 
 ### **Questão 3 (Superescalares)**

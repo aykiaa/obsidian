@@ -1,4 +1,4 @@
-
+	
 ### 1. Descrição dos cargos e sua importância
 
 Os cargos são **unidades estruturais** da organização, compostas por tarefas e responsabilidades desempenhadas por uma pessoa em uma posição formal na estrutura da empresa. Eles surgem da divisão racional do trabalho, buscando distribuir tarefas e atividades de forma equilibrada para especializar o trabalhador e evitar sobrecarga.
