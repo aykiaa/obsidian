@@ -119,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325,
-    "collapsed": true
+    "width": 325
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -213,7 +212,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0bfebdaa94321199",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
     "Prova 2 - RH.md",
     "ARH - 9. Recrutamento de Pessoal.md",
