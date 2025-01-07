@@ -5,7 +5,6 @@
 O _curriculum vitae_, ou simplesmente currículo, é um documento que resume e apresenta o perfil dos candidatos a emprego para a empresa contratante. Ele funciona como um **primeiro contato** entre a empresa e o candidato, sendo essencial para a condução dos processos de recrutamento e seleção de pessoal. O currículo serve para evidenciar as informações profissionais básicas do candidato, como qualificação, experiência, empresas onde atuou e outras informações pessoais relevantes para os processos seletivos.
 
 **A relevância do currículo:**
-
 - **Para a empresa:** Representa a primeira oportunidade de conhecer o candidato e buscar um indivíduo com as habilidades e capacidades necessárias para a vaga. Permite o contato com o mercado de trabalho e a obtenção de informações claras sobre o perfil dos candidatos.
 - **Para o candidato:** É a chance de se apresentar para as empresas e buscar uma oportunidade profissional, evidenciando sua trajetória profissional e qualificações. O principal objetivo do currículo é **chamar a atenção dos recrutadores** para que o candidato seja chamado para uma entrevista pessoal e possa participar do processo seletivo.
 
@@ -31,12 +30,10 @@ As informações no currículo devem ser organizadas da **mais recente para a ma
 A avaliação de currículos passa por uma análise que considera desde a estética e organização do texto até a adequação do candidato às exigências da vaga.
 
 **Etapas da avaliação:**
-
 1. **Apresentação:** Aparência, organização, qualidade e completude das informações, objetividade e clareza do texto.
 2. **Verificação de dados básicos:** Idade, estado civil, nível de escolaridade, experiência profissional e conhecimento da língua inglesa.
 
 **Situações finais do candidato:**
-
 - **Indicado:** Possui todos os requisitos mínimos para a vaga.
 - **Indicado com restrições:** Possui alguns requisitos, mas não todos.
 - **Contraindicado:** Não possui os requisitos mínimos para a vaga.
