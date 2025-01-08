@@ -160,7 +160,6 @@ Além das características do cargo e do candidato, três fatores contextuais de
 - **Chefias imediatas:** Integrar as chefias imediatas nos processos de recrutamento e seleção.
 
 **Cuidados e práticas antiéticas a evitar:**
-
 - **Estresse desnecessário aos candidatos:** Evitar práticas que causem ansiedade ou pressão excessiva.
 - **Falta de transparência:** Garantir a clareza e uniformidade nos procedimentos, informando os candidatos sobre as etapas do processo.
 - **Tratamento desigual:** Assegurar a igualdade de tratamento e a utilização dos mesmos critérios de avaliação para todos os candidatos.
