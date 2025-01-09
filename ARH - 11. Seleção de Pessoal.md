@@ -2,7 +2,7 @@
 
 ### 1. Conceitue seleção de pessoal; explique a relevância de se definir um perfil ideal de candidato nos processos seletivos.
 
-A seleção de pessoal é o processo de escolha do candidato mais adequado para um cargo, a partir de um grupo de candidatos recrutados. É um processo que utiliza informações sobre os candidatos para determinar qual deles receberá a oferta de emprego. A definição de um perfil ideal de candidato, também chamado de perfil profissiográfico, é crucial para orientar os avaliadores durante o processo seletivo. Esse perfil, geralmente definido durante o recrutamento, descreve o tipo de profissional desejado pela empresa.
+A **seleção de pessoal** é o processo de escolha do candidato mais adequado para um cargo, a partir de um grupo de candidatos recrutados. É um processo que utiliza informações sobre os candidatos para determinar qual deles receberá a oferta de emprego. A definição de um **perfil ideal de candidato, também chamado de perfil profissiográfico, é crucial para orientar os avaliadores durante o processo seletivo.** Esse perfil, geralmente definido durante o recrutamento, descreve o tipo de profissional desejado pela empresa.
 
 A relevância de se definir um perfil ideal reside nos seguintes aspectos:
 
@@ -20,7 +20,7 @@ A seleção de candidatos é crucial porque as pessoas diferem em suas capacidad
 
 O processo seletivo eficaz visa **reduzir a probabilidade de contratar indivíduos** com essas características, buscando prever o comportamento futuro dos candidatos a partir de um diagnóstico atual.
 
-### 3. Descreva as etapas do processo seletivo.
+### 3. Descreva as etapas do processo seletivo
 
 O processo seletivo se divide em três etapas principais:
 
@@ -105,14 +105,12 @@ A entrevista de seleção se divide em cinco etapas principais:
 A entrevista é a técnica de avaliação mais utilizada em processos seletivos, pois permite um contato direto com o candidato e a observação de diversos aspectos, como comunicação, comportamento, personalidade e valores.
 
 **Vantagens da entrevista:**
-
 1. Contato face a face com o candidato.
 2. Interação direta, possibilitando a troca de informações e o esclarecimento de dúvidas.
 3. Foco no candidato como pessoa, permitindo a avaliação de suas características individuais.
 4. Observação do comportamento do candidato em tempo real, incluindo suas reações emocionais.
 
 **Desvantagens da entrevista:**
-
 1. Subjetividade, com grande margem de erro e variação de acordo com o entrevistador.
 2. Influência do nervosismo e da ansiedade do candidato em seu desempenho.
 3. Dificuldade em comparar candidatos entre si de forma objetiva.
@@ -120,7 +118,6 @@ A entrevista é a técnica de avaliação mais utilizada em processos seletivos,
 5. Exigência de conhecimento do cargo e suas características básicas para formular perguntas relevantes.
 
 **Aspectos a serem avaliados ao final da entrevista:**
-
 1. Confirmação das informações do currículo do candidato.
 2. Avaliação da apresentação pessoal, etiqueta e comportamento básico.
 3. Conhecimentos, habilidades e experiências relevantes para o cargo.
@@ -148,7 +145,6 @@ A escolha deve considerar as habilidades, conhecimentos e comportamentos exigido
 ### 10. Descreva os fatores contextuais, nas empresas, que deverão ser considerados na avaliação dos candidatos, no decorrer do processo seletivo (condições tecnológicas, contexto cultural, características psicossociais do local de trabalho).
 
 Além das características do cargo e do candidato, três fatores contextuais devem ser considerados na avaliação:
-
 1. **Condições tecnológicas:** Nível de atualização tecnológica da empresa, velocidade de aprendizado e adaptação tecnológica exigidas dos funcionários, e receptividade à inovação.
 2. **Contexto cultural:** Normas, valores e princípios que regem o comportamento na empresa, e a compatibilidade do candidato com essa cultura.
 3. **Características psicossociais do local de trabalho:** Características comportamentais dos colegas de trabalho e o clima organizacional do departamento ou área específica.
@@ -164,7 +160,6 @@ Além das características do cargo e do candidato, três fatores contextuais de
 - **Chefias imediatas:** Integrar as chefias imediatas nos processos de recrutamento e seleção.
 
 **Cuidados e práticas antiéticas a evitar:**
-
 - **Estresse desnecessário aos candidatos:** Evitar práticas que causem ansiedade ou pressão excessiva.
 - **Falta de transparência:** Garantir a clareza e uniformidade nos procedimentos, informando os candidatos sobre as etapas do processo.
 - **Tratamento desigual:** Assegurar a igualdade de tratamento e a utilização dos mesmos critérios de avaliação para todos os candidatos.
