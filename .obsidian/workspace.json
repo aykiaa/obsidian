@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ae86741873cfcea2",
+        "id": "64509eb1e1dd4e39",
         "type": "tabs",
         "children": [
           {
-            "id": "75e4c73b1c0d1d53",
+            "id": "9ca604b4a44b841c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARH - 11. Seleção de Pessoal.md",
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARH - 11. Seleção de Pessoal"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -198,18 +198,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75e4c73b1c0d1d53",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
-    "ARH - 9. Recrutamento de Pessoal.md",
-    "ARH - 8. Planejamento de RH.md",
-    "TEXTO 16 – Processo Sucessório.md",
-    "ARH - 11. Seleção de Pessoal.md",
-    "ARH - 10. Elaboração e Avaliação de Currículos.md",
-    "ARH - 7. Desenho e Descrição de Cargos.md",
+    "Untitled.md",
+    "大学/ADM-ARH/ARH - 7. Desenho e Descrição de Cargos.md",
+    "大学/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
+    "Untitled 1.md",
+    "大学/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
+    "大学/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
+    "大学/ADM-ARH/ARH - 11. Seleção de Pessoal.md",
+    "大学/ADM-ARH/ARH - 10. Elaboração e Avaliação de Currículos.md",
+    "大学/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
+    "大学/ADM-ARH/Prova 2 - RH.md",
+    "大学/ADM-ARH/TEXTO 16 – Processo Sucessório.md",
+    "大学/ADM-ARH/ARH - 8. Planejamento de RH.md",
     "大学/OC/Aula 5 - Ponto flutuante.md",
     "大学/Crypto/Blockchain and Bitcoin.md",
-    "Prova 2 - RH.md",
-    "Untitled.md",
     "Prova2 - OC.md",
     "大学/OC/Prova2 - OC.md",
     "大学/OC/Prova 02 - OC - Resumo.md",
@@ -235,10 +239,6 @@
     "大学/Crypto/Prova - Crypto.md",
     "00 - notes/Gramatica/Concessão,  excessão - くても - でも.md",
     "00 - notes/Gramatica/Condicional - ば - なければ.md",
-    "00 - notes/Gramatica/ければなりません.md",
-    "00 - notes/Expressions/Maneira de terminar uma frase - けど.md",
-    "00 - notes/Expressions/Conectar duas frases - から_けど.md",
-    "00 - notes/Expressions/なら.md",
     "Excalidraw",
     "01 - archives/Graphs-aula1.pdf",
     "01 - archives/stablematching-2.pdf",
