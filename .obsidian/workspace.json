@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEXTO 21 – Avaliação em Seleção de Pessoas.md",
+                "file": "TEXTO 22 – Testagem e Avaliação Psicológica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TEXTO 21 – Avaliação em Seleção de Pessoas"
+              "title": "TEXTO 22 – Testagem e Avaliação Psicológica"
+            }
+          },
+          {
+            "id": "77d5ac33b799db6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXTO 23 – Sobre Testes e Testagem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEXTO 23 – Sobre Testes e Testagem"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -224,15 +239,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55f4388b5938887d",
+  "active": "77d5ac33b799db6b",
   "lastOpenFiles": [
+    "TEXTO 22 – Testagem e Avaliação Psicológica.md",
+    "TEXTO 21 – Avaliação em Seleção de Pessoas.md",
+    "ARH - 11. Seleção de Pessoal.md",
     "TEXTO 23 – Sobre Testes e Testagem.md",
     "Untitled 1.md",
     "Untitled.md",
     "Prova 2 - RH.md",
-    "TEXTO 22 – Testagem e Avaliação Psicológica.md",
-    "TEXTO 21 – Avaliação em Seleção de Pessoas.md",
-    "ARH - 11. Seleção de Pessoal.md",
     "ARH - 10. Elaboração e Avaliação de Currículos.md",
     "ARH - 9. Recrutamento de Pessoal.md",
     "ARH - 7. Desenho e Descrição de Cargos.md",
