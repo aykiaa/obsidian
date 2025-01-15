@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3d406ca6f96d190a",
+        "id": "b3bbb890cee2238a",
         "type": "tabs",
         "children": [
           {
-            "id": "a35dbc84263506c0",
+            "id": "baea8ca1c6480653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "prova 2  - alg1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "prova 2  - alg1"
             }
           }
         ]
@@ -94,8 +94,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -116,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 470,
+    "collapsed": true
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -210,10 +210,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a35dbc84263506c0",
+  "active": "baea8ca1c6480653",
   "lastOpenFiles": [
-    "大学/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
+    "Pasted image 20250115102748.png",
+    "Pasted image 20250115102353.png",
+    "Pasted image 20250115101743.png",
+    "Pasted image 20250115101721.png",
     "Untitled 2.md",
+    "大学/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
     "TEXTO 23 – Sobre Testes e Testagem.md",
     "大学/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
     "大学/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
@@ -228,7 +232,7 @@
     "TEXTO 21 – Avaliação em Seleção de Pessoas.md",
     "ARH - 11. Seleção de Pessoal.md",
     "Untitled 1.md",
-    "Untitled.md",
+    "prova 2  - alg1.md",
     "Prova 2 - RH.md",
     "ARH - 10. Elaboração e Avaliação de Currículos.md",
     "ARH - 9. Recrutamento de Pessoal.md",
@@ -240,7 +244,6 @@
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 1.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2.docx",
     "大学/OC/Prova 02 - OC - Resumo.md",
-    "todo.md",
     "01 - archives/Pasted image 20241211140835.png",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",
@@ -248,9 +251,6 @@
     "01 - archives/Pasted image 20241203154948.png",
     "01 - archives/Pasted image 20241203154759.png",
     "01 - archives/Pasted image 20241203154751.png",
-    "01 - archives/Pasted image 20241203154400.png",
-    "01 - archives/Pasted image 20241203153910.png",
-    "01 - archives/Pasted image 20241130113104.png",
     "Excalidraw",
     "01 - archives/stablematching-2.pdf",
     "01 - archives/Graphs-aula1.pdf",
