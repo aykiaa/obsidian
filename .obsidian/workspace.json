@@ -13,15 +13,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "大学/Alg1/prova 2  - alg1.md",
+                "file": "ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "prova 2  - alg1"
+              "title": "ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa"
+            }
+          },
+          {
+            "id": "941284b9049a32eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARH - 13. Gestão e Avaliação de Desempenho.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARH - 13. Gestão e Avaliação de Desempenho"
+            }
+          },
+          {
+            "id": "47ab5ce26b30b4c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARH - 14. Recompensas, Remuneração e Benefícios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARH - 14. Recompensas, Remuneração e Benefícios"
+            }
+          },
+          {
+            "id": "9fcec2a50fccdc5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TEXTO 37 - Por que os planos de incentivo não funcionam.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TEXTO 37 - Por que os planos de incentivo não funcionam"
+            }
+          },
+          {
+            "id": "b46c4bc92b82c1dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARH - 15. Gestão de Carreiras.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARH - 15. Gestão de Carreiras"
+            }
+          },
+          {
+            "id": "65e783c468ab7ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARH - 16. Auditoria de RH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ARH - 16. Auditoria de RH"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -209,12 +280,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "65e783c468ab7ab5",
   "lastOpenFiles": [
-    "README.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
+    "ARH - 15. Gestão de Carreiras.md",
+    "ARH - 16. Auditoria de RH.md",
+    "TEXTO 37 - Por que os planos de incentivo não funcionam.md",
+    "ARH - 14. Recompensas, Remuneração e Benefícios.md",
+    "ARH - 13. Gestão e Avaliação de Desempenho.md",
+    "TEXTO 29 - Estratégias de educação corporativa e suas relações com os diferentes níveis de aprendizagem organizacional.md",
+    "ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
     "大学/Alg1/prova 2  - alg1.md",
+    "README.md",
     "01 - archives/Pasted image 20250115102748.png",
     "01 - archives/Pasted image 20250115102353.png",
     "01 - archives/Pasted image 20250115101743.png",
@@ -236,13 +312,9 @@
     "Prova 2 - RH.md",
     "ARH - 10. Elaboração e Avaliação de Currículos.md",
     "ARH - 9. Recrutamento de Pessoal.md",
-    "ARH - 7. Desenho e Descrição de Cargos.md",
-    "ARH - 8. Planejamento de RH.md",
-    "TEXTO 16 – Processo Sucessório.md",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 2.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 1.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2.docx",
-    "大学/OC/Prova 02 - OC - Resumo.md",
     "01 - archives/Pasted image 20241211140835.png",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",
