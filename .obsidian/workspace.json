@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9335478a2cab60cf",
+        "id": "c8fbd2bfbdbdbd79",
         "type": "tabs",
         "children": [
           {
-            "id": "a2c9b9bd1cb7079f",
+            "id": "31687c1b633140cc",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -242,12 +242,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "31687c1b633140cc",
   "lastOpenFiles": [
     "Introducao a Contabilidade/Aula 01.md",
+    "Introducao a Contabilidade/pdfs/Aula 01.pdf",
     "Contador de faltas.md",
     "Introducao a Contabilidade/pdfs",
-    "Introducao a Contabilidade/pdfs/Aula 01.pdf",
     "OTI",
     "Linguagens de Programação",
     "Introducao a AI",
