@@ -4,95 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b3bbb890cee2238a",
+        "id": "df6a4febd7b76f14",
         "type": "tabs",
         "children": [
           {
-            "id": "baea8ca1c6480653",
+            "id": "b1c3eb10880c5fd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa"
-            }
-          },
-          {
-            "id": "941284b9049a32eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARH - 13. Gestão e Avaliação de Desempenho.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARH - 13. Gestão e Avaliação de Desempenho"
-            }
-          },
-          {
-            "id": "47ab5ce26b30b4c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARH - 14. Recompensas, Remuneração e Benefícios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARH - 14. Recompensas, Remuneração e Benefícios"
-            }
-          },
-          {
-            "id": "9fcec2a50fccdc5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "TEXTO 37 - Por que os planos de incentivo não funcionam.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TEXTO 37 - Por que os planos de incentivo não funcionam"
-            }
-          },
-          {
-            "id": "b46c4bc92b82c1dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARH - 15. Gestão de Carreiras.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARH - 15. Gestão de Carreiras"
-            }
-          },
-          {
-            "id": "65e783c468ab7ab5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARH - 16. Auditoria de RH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ARH - 16. Auditoria de RH"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +29,7 @@
       {
         "id": "213acfa439c97249",
         "type": "tabs",
-        "dimension": 79.77755308392315,
+        "dimension": 74.4186046511628,
         "children": [
           {
             "id": "e90ae10e9ecbb673",
@@ -112,7 +37,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -165,28 +91,29 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
-        "id": "2eb09d6e91f722e5",
+        "id": "7fdf619995b8985a",
         "type": "tabs",
-        "dimension": 20.222446916076844,
+        "dimension": 25.581395348837212,
         "children": [
           {
-            "id": "c8ae29299184ed50",
+            "id": "08d8bb00f17492fe",
             "type": "leaf",
             "state": {
-              "type": "tagfolder-view",
+              "type": "graph",
               "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 470
+    "width": 308
   },
   "right": {
     "id": "d0aa8c06c769c833",
@@ -195,6 +122,7 @@
       {
         "id": "2a3d32ae9c6da7e9",
         "type": "tabs",
+        "dimension": 63.372093023255815,
         "children": [
           {
             "id": "ca541335742345d2",
@@ -202,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grafos - Grafos Bipartição e componentes fortemente.md",
+                "file": "Contador de faltas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Grafos - Grafos Bipartição e componentes fortemente"
+              "title": "Backlinks for Contador de faltas"
             }
           },
           {
@@ -221,11 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Contador de faltas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Contador de faltas"
             }
           },
           {
@@ -233,9 +162,24 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Contador de faltas.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Contador de faltas"
+            }
+          },
+          {
+            "id": "c8ae29299184ed50",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {},
+              "icon": "stacked-levels",
+              "title": "Tag Folder"
             }
           },
           {
@@ -245,28 +189,37 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "26881933c3fd880d",
+        "type": "tabs",
+        "dimension": 36.627906976744185,
+        "children": [
           {
-            "id": "14bb1fd570fc8182",
+            "id": "0aa1b770e37e86ea",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 251
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,41 +230,49 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "github-sync:Sync with Remote": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "65e783c468ab7ab5",
+  "active": "b1c3eb10880c5fd4",
   "lastOpenFiles": [
-    "ARH - 15. Gestão de Carreiras.md",
-    "ARH - 16. Auditoria de RH.md",
-    "TEXTO 37 - Por que os planos de incentivo não funcionam.md",
-    "ARH - 14. Recompensas, Remuneração e Benefícios.md",
-    "ARH - 13. Gestão e Avaliação de Desempenho.md",
-    "TEXTO 29 - Estratégias de educação corporativa e suas relações com os diferentes níveis de aprendizagem organizacional.md",
-    "ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
-    "大学/Alg1/prova 2  - alg1.md",
+    "OTI",
+    "Linguagens de Programação",
+    "Introducao a AI",
+    "Introducao a Contabilidade",
+    "Interaçao Humano-Computador",
+    "Administração da Produção",
     "README.md",
+    "Contador de faltas.md",
+    "Untitled",
+    "01 - archives/adjectives_sa.png",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 2. Fundamentos da ARH.md",
+    "2025-03-11.md",
+    "大学",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 14. Recompensas, Remuneração e Benefícios.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 13. Gestão e Avaliação de Desempenho.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 37 - Por que os planos de incentivo não funcionam.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 29 - Estratégias de educação corporativa e suas relações com os diferentes níveis de aprendizagem organizacional.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 16. Auditoria de RH.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 15. Gestão de Carreiras.md",
+    "01 - archives/大学 2024-2/Alg1/prova 2  - alg1.md",
     "01 - archives/Pasted image 20250115102748.png",
     "01 - archives/Pasted image 20250115102353.png",
     "01 - archives/Pasted image 20250115101743.png",
     "01 - archives/Pasted image 20250115101721.png",
-    "大学/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
     "TEXTO 23 – Sobre Testes e Testagem.md",
-    "大学/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
-    "大学/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
-    "大学/ADM-ARH/TEXTO 16 – Processo Sucessório.md",
-    "大学/ADM-ARH/Prova 2 - RH.md",
-    "大学/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
-    "大学/ADM-ARH/ARH - 8. Planejamento de RH.md",
-    "大学/ADM-ARH/ARH - 7. Desenho e Descrição de Cargos.md",
-    "大学/ADM-ARH/ARH - 11. Seleção de Pessoal.md",
-    "大学/ADM-ARH/ARH - 10. Elaboração e Avaliação de Currículos.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 16 – Processo Sucessório.md",
+    "01 - archives/大学 2024-2/ADM-ARH/Prova 2 - RH.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 8. Planejamento de RH.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 7. Desenho e Descrição de Cargos.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 11. Seleção de Pessoal.md",
+    "01 - archives/大学 2024-2/ADM-ARH/ARH - 10. Elaboração e Avaliação de Currículos.md",
     "TEXTO 22 – Testagem e Avaliação Psicológica.md",
     "TEXTO 21 – Avaliação em Seleção de Pessoas.md",
-    "ARH - 11. Seleção de Pessoal.md",
-    "Prova 2 - RH.md",
-    "ARH - 10. Elaboração e Avaliação de Currículos.md",
-    "ARH - 9. Recrutamento de Pessoal.md",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 2.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 1.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2.docx",
@@ -320,14 +281,6 @@
     "01 - archives/Pasted image 20241203155516.png",
     "01 - archives/Pasted image 20241203155104.png",
     "01 - archives/Pasted image 20241203154948.png",
-    "01 - archives/Pasted image 20241203154759.png",
-    "Excalidraw",
-    "01 - archives/stablematching-2.pdf",
-    "01 - archives/Graphs-aula1.pdf",
-    "大学/Alg1",
-    "大学/ADM-ARH",
-    "大学/OC",
-    "大学/Crypto",
     "Untitled.canvas"
   ]
 }
