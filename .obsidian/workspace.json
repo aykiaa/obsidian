@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "64509eb1e1dd4e39",
+        "id": "5214baba81fc400e",
         "type": "tabs",
         "children": [
           {
-            "id": "9ca604b4a44b841c",
+            "id": "52afbb632b5de5b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "ARH - 16. Auditoria de RH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "ARH - 16. Auditoria de RH"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -84,7 +85,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -198,10 +200,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9ca604b4a44b841c",
+  "active": "52afbb632b5de5b5",
   "lastOpenFiles": [
-    "prova de crypto 2.md",
+    "TEXTO 37 - Por que os planos de incentivo não funcionam.md",
+    "TEXTO 29 - Estratégias de educação corporativa e suas relações com os diferentes níveis de aprendizagem organizacional.md",
+    "ARH - 15. Gestão de Carreiras.md",
+    "ARH - 14. Recompensas, Remuneração e Benefícios.md",
+    "ARH - 13. Gestão e Avaliação de Desempenho.md",
+    "ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
+    "ARH - 16. Auditoria de RH.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "大学/Alg1/prova 2  - alg1.md",
+    "01 - archives/Pasted image 20250115102748.png",
+    "01 - archives/Pasted image 20250115102353.png",
+    "01 - archives/Pasted image 20250115101743.png",
+    "01 - archives/Pasted image 20250115101721.png",
+    "prova de crypto 2.md",
     "大学/ADM-ARH/ARH - 7. Desenho e Descrição de Cargos.md",
     "大学/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
     "大学/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
@@ -220,25 +235,12 @@
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 2.docx",
     "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 1.docx",
-    "01 - archives/Week 1 - Machine Learning Algorithms.md",
     "01 - archives/Pasted image 20241211140835.png",
-    "01 - archives/Linear Regression.md",
-    "Week 1 - Machine Learning Algorithms.md",
-    "todo.md",
-    "Linear Regression.md",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",
     "01 - archives/Pasted image 20241203155104.png",
     "01 - archives/Pasted image 20241203154948.png",
     "01 - archives/Pasted image 20241203154759.png",
-    "01 - archives/Pasted image 20241203154751.png",
-    "01 - archives/Pasted image 20241203154400.png",
-    "01 - archives/Pasted image 20241203153910.png",
-    "01 - archives/Pasted image 20241130110220.png",
-    "Excalidraw/linear_regression.excalidraw.md",
-    "大学/Crypto/Prova - Crypto.md",
-    "00 - notes/Gramatica/Concessão,  excessão - くても - でも.md",
-    "00 - notes/Gramatica/Condicional - ば - なければ.md",
     "Excalidraw",
     "01 - archives/Graphs-aula1.pdf",
     "01 - archives/stablematching-2.pdf",

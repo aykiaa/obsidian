@@ -1,8 +1,14 @@
 As autoras Fabiana Queiroga e Sonia Maria Guedes Gondim, no capítulo "Avaliação em Seleção de Pessoas", abordam os limites e dificuldades na utilização de técnicas de seleção, como análise de currículo, entrevista, prova de conhecimentos e avaliação psicológica.
 
 **Análise de currículo:**
+<<<<<<< HEAD:TEXTO 21 – Avaliação em Seleção de Pessoas.md
+
+- A **análise de currículo**, embora seja uma ferramenta comum nos processos seletivos, especialmente como um **filtro inicial**, apresenta a limitação de retratar a **trajetória profissional e educacional do candidato de forma estática.**
+- Ela *não garante a avaliação do potencial de desempenho futuro* do candidato na função desejada, pois não demonstra suas competências (a articulação de conhecimentos, habilidades e atitudes).
+=======
 - A análise de currículo, embora seja uma ferramenta comum nos processos seletivos, especialmente como um filtro inicial, apresenta a limitação de retratar a trajetória profissional e educacional do candidato de forma estática.
 - Ela não garante a avaliação do potencial de desempenho futuro do candidato na função desejada, pois não demonstra suas competências (a articulação de conhecimentos, habilidades e atitudes).
+>>>>>>> 72a2d41bd919d94ae4af0d572c0071755dcf3eef:大学/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md
 - A crença de que a formação e a experiência profissional asseguram um melhor desempenho no cargo é considerada uma falsa crença.
 
 **Entrevista:**
@@ -14,7 +20,7 @@ As autoras Fabiana Queiroga e Sonia Maria Guedes Gondim, no capítulo "Avaliaç�
 **Prova de Conhecimentos:**
 
 - As provas de conhecimento, frequentemente usadas em concursos públicos, podem não ser preditivas do desempenho futuro na função e do desempenho contextual.
-- Candidatos com bom desempenho em provas escritas não necessariamente apresentam bom desempenho no cargo.
+- *Candidatos com bom desempenho em provas escritas não necessariamente apresentam bom desempenho no cargo.*
 
 **Avaliação Psicológica:**
 
@@ -23,4 +29,4 @@ As autoras Fabiana Queiroga e Sonia Maria Guedes Gondim, no capítulo "Avaliaç�
 - É importante que os profissionais responsáveis pelos processos seletivos avaliem as qualidades psicométricas dos instrumentos utilizados, não apenas dos testes psicológicos, para garantir a qualidade do processo e evitar o uso indevido.
 - A má prática profissional na área de seleção contribui para a disseminação de preconceitos em relação a psicólogos e seus instrumentos.
 
-As autoras enfatizam a necessidade de um **planejamento cuidadoso do processo seletivo**, com a escolha de técnicas e instrumentos adequados às características da vaga e do contexto organizacional. É fundamental que os profissionais de gestão de pessoas tenham uma visão crítica de sua atuação prática, buscando constantemente o aperfeiçoamento dos processos e a utilização de ferramentas eficazes e éticas.
+As autoras enfatizam a necessidade de um **planejamento cuidadoso do processo seletivo**, com a escolha de técnicas e instrumentos adequados às características da vaga e do contexto organizacional. É fundamental que os *profissionais de gestão de pessoas tenham uma visão crítica de sua atuação prática*, buscando constantemente o aperfeiçoamento dos processos e a utilização de ferramentas eficazes e éticas.
