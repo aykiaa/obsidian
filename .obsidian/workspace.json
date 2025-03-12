@@ -11,10 +11,14 @@
             "id": "396c5e2528ac4449",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Contador de faltas.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Contador de faltas"
             }
           }
         ]
@@ -242,7 +246,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "396c5e2528ac4449",
   "lastOpenFiles": [
     "Introducao a Contabilidade/Aula 01.md",
     "Introducao a Contabilidade/pdfs/Aula 01.pdf",
