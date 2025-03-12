@@ -1,0 +1,91 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "bkXuSOoD7Tm5gHU8yVeH5",
+      "name": "",
+      "value": "#a6d189"
+    },
+    {
+      "id": "1SNhZQL9OiAer_r8GFXBn",
+      "name": "",
+      "value": "#e78284"
+    },
+    {
+      "id": "y84Q52x15bzDdQ2_dKkgw",
+      "name": "",
+      "value": "#e5c890"
+    },
+    {
+      "id": "SKKWlZ3hfN__hJUoLwjNV",
+      "name": "",
+      "value": "#8caaee"
+    },
+    {
+      "id": "tbH5zSNdgoHnt72GNVFWM",
+      "name": "",
+      "value": "#ca9ee6"
+    },
+    {
+      "id": "Xy8R6VAEUbkXU55FRwA1L",
+      "name": "",
+      "value": "#ef9f76"
+    },
+    {
+      "id": "nTTaeMrQ3lad-H-T0UfPu",
+      "name": "",
+      "value": "#f4b8e4"
+    },
+    {
+      "id": "D95AGQvuoidmIjv-oXAMi",
+      "name": "",
+      "value": "#ea999c"
+    },
+    {
+      "id": "zMTVrrGXIjFdOqH2k4XiJ",
+      "name": "",
+      "value": "#c6d0f5"
+    },
+    {
+      "id": "LRT7sDpb4L7eIcJ9Aon77",
+      "name": "",
+      "value": "#292c3c"
+    },
+    {
+      "id": "xo7aCHnN4_AM2x493oheq",
+      "name": "",
+      "value": "#81c8be"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Contador de faltas.md",
+      "color": "bkXuSOoD7Tm5gHU8yVeH5"
+    },
+    {
+      "path": "Administração da Produção",
+      "color": "Xy8R6VAEUbkXU55FRwA1L"
+    },
+    {
+      "path": "Interaçao Humano-Computador",
+      "color": "SKKWlZ3hfN__hJUoLwjNV"
+    },
+    {
+      "path": "Introducao a AI",
+      "color": "bkXuSOoD7Tm5gHU8yVeH5"
+    },
+    {
+      "path": "Introducao a Contabilidade",
+      "color": "y84Q52x15bzDdQ2_dKkgw"
+    },
+    {
+      "path": "Linguagens de Programação",
+      "color": "nTTaeMrQ3lad-H-T0UfPu"
+    },
+    {
+      "path": "OTI",
+      "color": "xo7aCHnN4_AM2x493oheq"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "palette": {
+    "seed": 0,
+    "selected": "adaptive-soft",
+    "custom": "e12729-f37324-f8cc1b-72b043-007f4e"
+  },
+  "mixColors": true,
+  "transition": true,
+  "accessibility": {
+    "highTextContrast": false
+  },
+  "knownTags": {
+    "japanese": 1,
+    "japanese/topic2": 1,
+    "japanese/topic2/expressions": 1,
+    "kara": 2,
+    "kedo": 3,
+    "japanese/topic3": 2,
+    "japanese/topic3/expressions": 1,
+    "negative_form": 4,
+    "japanese/topic1": 3,
+    "japanese/topic1/expressions": 1,
+    "japanese/topic2/gramatica": 2,
+    "demo": 5,
+    "kutemo": 6,
+    "condicional": 7,
+    "japanese/topic4": 4,
+    "japanese/topic4/gramatica": 1,
+    "japanese/topic3/gramatica": 2,
+    "japanese/topic1/gramatica": 2,
+    "verb": 8,
+    "i-adjective": 9,
+    "na-adjective": 10,
+    "japanese/N3": 5,
+    "japanese/N3/week2": 1,
+    "N3": 11,
+    "N3/week2": 1,
+    "japanese/N3/week1": 2,
+    "japanese/formas": 6,
+    "speed": 12,
+    "speed/week1": 1,
+    "japanese/recursos": 7,
+    "japanese/recursos/gramatica": 1,
+    "excalidraw": 13,
+    "ufmg": 14,
+    "ufmg/oc": 1,
+    "contabilidade": 15
+  },
+  "_version": 3
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARH - 16. Auditoria de RH.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARH - 16. Auditoria de RH"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -85,8 +85,7 @@
               "title": "Tag Folder"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "2eb09d6e91f722e5",
@@ -200,54 +199,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52afbb632b5de5b5",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
-    "TEXTO 37 - Por que os planos de incentivo não funcionam.md",
-    "TEXTO 29 - Estratégias de educação corporativa e suas relações com os diferentes níveis de aprendizagem organizacional.md",
-    "ARH - 15. Gestão de Carreiras.md",
-    "ARH - 14. Recompensas, Remuneração e Benefícios.md",
-    "ARH - 13. Gestão e Avaliação de Desempenho.md",
-    "ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
+    "Untitled 2.md",
     "ARH - 16. Auditoria de RH.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "大学/Alg1/prova 2  - alg1.md",
+    "Introducao a Contabilidade/pdfs/Aula 01.pdf",
+    "Introducao a Contabilidade/pdfs",
+    "Introducao a Contabilidade/Aula 01.md",
+    "Introducao a Contabilidade",
+    "Contador de faltas.md",
+    "01 - archives/大学 2024-2/OC/slide 1.md",
+    "01 - archives/大学 2024-2/OC/Prova2 - OC.md",
+    "01 - archives/大学 2024-2/OC/Prova 02 - OC - Resumo.md",
+    "01 - archives/大学 2024-2/OC/Prova 01 - Topicos.md",
+    "01 - archives/大学 2024-2/OC/Aula 5 - Ponto flutuante.md",
+    "01 - archives/大学 2024-2/OC/Aula 4 – Aritmética Computacional.md",
+    "01 - archives/大学 2024-2/OC/Aula 3 -  Desempenho.md",
+    "01 - archives/大学 2024-2/Crypto/Types of encryption.md",
+    "01 - archives/大学 2024-2/Crypto/Prova - Crypto.md",
+    "01 - archives/大学 2024-2/Crypto/Blockchain and Bitcoin.md",
+    "01 - archives/大学 2024-2/Alg1/stable-matching 2 - Exercicios.md",
+    "01 - archives/大学 2024-2/Alg1/stable-matching 1.md",
+    "01 - archives/大学 2024-2/Alg1/prova 2  - alg1.md",
+    "01 - archives/大学 2024-2/Alg1/Grafos - ordenação topológica e 2SAT.md",
+    "01 - archives/大学 2024-2/Alg1/Grafos - Principais Conceitos.md",
+    "01 - archives/大学 2024-2/Alg1/Grafos - Grafos Bipartição e componentes fortemente.md",
+    "01 - archives/大学 2024-2/Alg1/Grafos - Busca em largura e busca em profundidade.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 37 - Por que os planos de incentivo não funcionam.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 29 - Estratégias de educação corporativa e suas relações com os diferentes níveis de aprendizagem organizacional.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
+    "01 - archives/大学 2024-2/OC",
+    "01 - archives/大学 2024-2/Crypto",
+    "01 - archives/大学 2024-2/Alg1",
+    "01 - archives/大学 2024-2/ADM-ARH",
+    "01 - archives/大学 2024-2",
+    "01 - archives/00 - notes/N3",
+    "01 - archives/00 - notes/Gramatica",
     "01 - archives/Pasted image 20250115102748.png",
     "01 - archives/Pasted image 20250115102353.png",
     "01 - archives/Pasted image 20250115101743.png",
     "01 - archives/Pasted image 20250115101721.png",
-    "prova de crypto 2.md",
-    "大学/ADM-ARH/ARH - 7. Desenho e Descrição de Cargos.md",
-    "大学/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
-    "大学/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
-    "大学/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
-    "大学/ADM-ARH/ARH - 11. Seleção de Pessoal.md",
-    "大学/ADM-ARH/ARH - 10. Elaboração e Avaliação de Currículos.md",
-    "大学/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
-    "大学/ADM-ARH/Prova 2 - RH.md",
-    "大学/ADM-ARH/TEXTO 16 – Processo Sucessório.md",
-    "大学/ADM-ARH/ARH - 8. Planejamento de RH.md",
-    "大学/OC/Aula 5 - Ponto flutuante.md",
-    "大学/Crypto/Blockchain and Bitcoin.md",
-    "Prova2 - OC.md",
-    "大学/OC/Prova2 - OC.md",
-    "大学/OC/Prova 02 - OC - Resumo.md",
-    "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2.docx",
-    "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 2.docx",
-    "Questionário de Revisão 2 - Avaliação 02 - CAD 163 ARH - Sistemas de Informação - Turma Z - 2024-2 1.docx",
     "01 - archives/Pasted image 20241211140835.png",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",
     "01 - archives/Pasted image 20241203155104.png",
     "01 - archives/Pasted image 20241203154948.png",
     "01 - archives/Pasted image 20241203154759.png",
-    "Excalidraw",
-    "01 - archives/Graphs-aula1.pdf",
-    "01 - archives/stablematching-2.pdf",
-    "大学/Alg1",
-    "大学/ADM-ARH",
-    "大学/Crypto",
-    "大学/OC",
     "Untitled.canvas"
   ]
 }
