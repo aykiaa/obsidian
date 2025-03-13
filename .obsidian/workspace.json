@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "396c5e2528ac4449",
+            "id": "f0df52150c29dc81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "explicabilidade.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "explicabilidade"
             }
           }
         ]
@@ -246,12 +246,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "f0df52150c29dc81",
   "lastOpenFiles": [
+    "explicabilidade.md",
+    "Untitled.md",
     "README.md",
     "prova de crypto 2.md",
     "Contador de faltas.md",
-    "Untitled.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Introducao a Contabilidade/Aula 01.md",
@@ -288,7 +289,6 @@
     "01 - archives/大学 2024-2/ADM-ARH/Prova 2 - RH.md",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 8. Planejamento de RH.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 7. Desenho e Descrição de Cargos.md",
     "01 - archives/Pasted image 20241211140835.png",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",

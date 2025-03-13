@@ -1,0 +1,9 @@
+### Descreva, brevemente, os quatro “campos de tensão” na relação entre as novas tecnologias e o trabalho (empobrecimento do trabalho, perda do conhecimento tácito, opressão digital e risco de substituição).
+
+- **Empobrecimento do trabalho:** A interação pessoas-máquina pode simplificar e normalizar excessivamente os processos de trabalho. Isso *restringe a capacidade dos trabalhadores de desenvolverem uma visão sistêmica e reduz o significado e o propósito do trabalho.* O resultado é um trabalho monótono e desmotivador, semelhante ao *taylorismo*, com atividades residuais e repetitivas.
+
+- **Perda do conhecimento tácito:** A automação excessiva impede o desenvolvimento de habilidades e conhecimentos práticos nos trabalhadores. À medida que o trabalho humano se resume à *supervisão de processos automatizados*, *a experiência prática e o conhecimento tácito, adquiridos através da prática, deixam de ser desenvolvidos*. Isso cria uma *dependência excessiva dos sistemas automatizados* e limita a capacidade das equipes de otimizar seus processos.
+
+- **Opressão digital:** A crescente capacidade de *monitoramento* e *controle do desempenho* dos trabalhadores através de dados gera uma forma de opressão digital. Informações sobre localização, desempenho e comportamento das pessoas podem ser controladas e documentadas, restringindo a autonomia e a privacidade dos trabalhadores.
+
+- **Risco de substituição:** A automação e a inteligência artificial ameaçam a *estabilidade no emprego e a segurança financeira dos trabalhadores.* A substituição permanente do trabalho humano por máquinas gera insegurança e medo de perda de renda e sustento, impactando a motivação e o bem-estar dos trabalhadores.
