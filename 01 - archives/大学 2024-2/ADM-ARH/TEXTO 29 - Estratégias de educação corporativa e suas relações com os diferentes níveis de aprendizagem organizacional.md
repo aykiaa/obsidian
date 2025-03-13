@@ -12,11 +12,7 @@ Com base no "TEXTO 29 - Estratégias de educação corporativa e suas relações
 O texto apresenta diversas estratégias de Educação Corporativa. Aqui estão cinco delas, com seus respectivos focos:
 
 - **Autoinstrução:** Foca na **aprendizagem autodirigida**, onde o indivíduo busca conhecimento por meio de materiais impressos ou eletrônicos, de acordo com sua necessidade e ritmo. O foco está na **maturidade do indivíduo** para gerenciar seu próprio aprendizado.
-    
 - **Aulas Expositivas:** É a estratégia mais tradicional, focada na **transmissão de conhecimento** em sala de aula, com um instrutor ou professor. O foco é a apresentação de conteúdo programado para os aprendizes.
-    
 - **Aprendizagem Baseada em Problemas:** O foco é a **resolução de problemas reais** identificados no contexto dos aprendizes e relacionados às suas atividades na organização. A estratégia envolve a identificação do problema, suas causas e efeitos, e a busca de soluções usando diversas fontes de informação.
-    
 - **Job Rotation:** Foca na **visão sistêmica** dos processos organizacionais através da experiência em diferentes atividades dentro da empresa. O indivíduo sai da sua rotina para exercer diferentes atividades, estimulando a prática e a reflexão sobre o trabalho.
-    
 - **Comunidades de Prática:** O foco é o **compartilhamento de conhecimentos e experiências** entre pessoas com interesses comuns. As pessoas compartilham suas vivências, colaborando na resolução de problemas.

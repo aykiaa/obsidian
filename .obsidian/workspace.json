@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "992c645f93492130",
+        "id": "5214baba81fc400e",
         "type": "tabs",
         "children": [
           {
-            "id": "396c5e2528ac4449",
+            "id": "52afbb632b5de5b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Contador de faltas.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Contador de faltas"
+              "title": "Untitled 2"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "213acfa439c97249",
         "type": "tabs",
-        "dimension": 74.4186046511628,
+        "dimension": 60.430686406460296,
         "children": [
           {
             "id": "e90ae10e9ecbb673",
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tipos de instruco",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,17 +76,7 @@
             }
           },
           {
-            "id": "d602392ed5dd0bc5",
-            "type": "leaf",
-            "state": {
-              "type": "tagfolder-view",
-              "state": {},
-              "icon": "stacked-levels",
-              "title": "Tag Folder"
-            }
-          },
-          {
-            "id": "0e125a6ffff298be",
+            "id": "cec9ed59f98fe807",
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
@@ -98,82 +88,10 @@
         ]
       },
       {
-        "id": "7fdf619995b8985a",
+        "id": "2eb09d6e91f722e5",
         "type": "tabs",
-        "dimension": 25.581395348837212,
+        "dimension": 39.569313593539704,
         "children": [
-          {
-            "id": "08d8bb00f17492fe",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 308
-  },
-  "right": {
-    "id": "d0aa8c06c769c833",
-    "type": "split",
-    "children": [
-      {
-        "id": "2a3d32ae9c6da7e9",
-        "type": "tabs",
-        "dimension": 63.372093023255815,
-        "children": [
-          {
-            "id": "ca541335742345d2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Contador de faltas.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Contador de faltas"
-            }
-          },
-          {
-            "id": "ceca4bbd85cd8111",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Contador de faltas.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Contador de faltas"
-            }
-          },
-          {
-            "id": "e7b70dcba02e17e8",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
-            }
-          },
           {
             "id": "c8ae29299184ed50",
             "type": "leaf",
@@ -183,6 +101,61 @@
               "icon": "stacked-levels",
               "title": "Tag Folder"
             }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325
+  },
+  "right": {
+    "id": "d0aa8c06c769c833",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a3d32ae9c6da7e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca541335742345d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ceca4bbd85cd8111",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e7b70dcba02e17e8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           },
           {
             "id": "3da453d888bd8910",
@@ -191,108 +164,89 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "2b5bf8256d483792",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "26881933c3fd880d",
-        "type": "tabs",
-        "dimension": 36.627906976744185,
-        "children": [
-          {
-            "id": "0aa1b770e37e86ea",
+            "id": "14bb1fd570fc8182",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 347,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "github-sync:Sync with Remote": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
-    "Introducao a Contabilidade/Aula 01.md",
+    "Untitled 2.md",
+    "ARH - 16. Auditoria de RH.md",
     "Introducao a Contabilidade/pdfs/Aula 01.pdf",
-    "Contador de faltas.md",
     "Introducao a Contabilidade/pdfs",
-    "OTI",
-    "Linguagens de Programação",
-    "Introducao a AI",
+    "Introducao a Contabilidade/Aula 01.md",
     "Introducao a Contabilidade",
-    "Interaçao Humano-Computador",
-    "Administração da Produção",
-    "README.md",
-    "Untitled",
-    "01 - archives/adjectives_sa.png",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 2. Fundamentos da ARH.md",
-    "2025-03-11.md",
-    "大学",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 14. Recompensas, Remuneração e Benefícios.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 13. Gestão e Avaliação de Desempenho.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
+    "Contador de faltas.md",
+    "01 - archives/大学 2024-2/OC/slide 1.md",
+    "01 - archives/大学 2024-2/OC/Prova2 - OC.md",
+    "01 - archives/大学 2024-2/OC/Prova 02 - OC - Resumo.md",
+    "01 - archives/大学 2024-2/OC/Prova 01 - Topicos.md",
+    "01 - archives/大学 2024-2/OC/Aula 5 - Ponto flutuante.md",
+    "01 - archives/大学 2024-2/OC/Aula 4 – Aritmética Computacional.md",
+    "01 - archives/大学 2024-2/OC/Aula 3 -  Desempenho.md",
+    "01 - archives/大学 2024-2/Crypto/Types of encryption.md",
+    "01 - archives/大学 2024-2/Crypto/Prova - Crypto.md",
+    "01 - archives/大学 2024-2/Crypto/Blockchain and Bitcoin.md",
+    "01 - archives/大学 2024-2/Alg1/stable-matching 2 - Exercicios.md",
+    "01 - archives/大学 2024-2/Alg1/stable-matching 1.md",
+    "01 - archives/大学 2024-2/Alg1/prova 2  - alg1.md",
+    "01 - archives/大学 2024-2/Alg1/Grafos - ordenação topológica e 2SAT.md",
+    "01 - archives/大学 2024-2/Alg1/Grafos - Principais Conceitos.md",
+    "01 - archives/大学 2024-2/Alg1/Grafos - Grafos Bipartição e componentes fortemente.md",
+    "01 - archives/大学 2024-2/Alg1/Grafos - Busca em largura e busca em profundidade.md",
     "01 - archives/大学 2024-2/ADM-ARH/TEXTO 37 - Por que os planos de incentivo não funcionam.md",
     "01 - archives/大学 2024-2/ADM-ARH/TEXTO 29 - Estratégias de educação corporativa e suas relações com os diferentes níveis de aprendizagem organizacional.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 16. Auditoria de RH.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 15. Gestão de Carreiras.md",
-    "01 - archives/大学 2024-2/Alg1/prova 2  - alg1.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
+    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
+    "01 - archives/大学 2024-2/OC",
+    "01 - archives/大学 2024-2/Crypto",
+    "01 - archives/大学 2024-2/Alg1",
+    "01 - archives/大学 2024-2/ADM-ARH",
+    "01 - archives/大学 2024-2",
+    "01 - archives/00 - notes/N3",
+    "01 - archives/00 - notes/Gramatica",
     "01 - archives/Pasted image 20250115102748.png",
     "01 - archives/Pasted image 20250115102353.png",
     "01 - archives/Pasted image 20250115101743.png",
     "01 - archives/Pasted image 20250115101721.png",
-    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 21 – Avaliação em Seleção de Pessoas.md",
-    "TEXTO 23 – Sobre Testes e Testagem.md",
-    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 23 – Sobre Testes e Testagem.md",
-    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
-    "01 - archives/大学 2024-2/ADM-ARH/TEXTO 16 – Processo Sucessório.md",
-    "01 - archives/大学 2024-2/ADM-ARH/Prova 2 - RH.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 8. Planejamento de RH.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 7. Desenho e Descrição de Cargos.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 11. Seleção de Pessoal.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 10. Elaboração e Avaliação de Currículos.md",
-    "TEXTO 22 – Testagem e Avaliação Psicológica.md",
     "01 - archives/Pasted image 20241211140835.png",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",
     "01 - archives/Pasted image 20241203155104.png",
     "01 - archives/Pasted image 20241203154948.png",
+    "01 - archives/Pasted image 20241203154759.png",
     "Untitled.canvas"
   ]
 }
