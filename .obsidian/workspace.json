@@ -11,17 +11,30 @@
             "id": "f0df52150c29dc81",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Papers LINDOS/GNN_PKDD___Gisele.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GNN_PKDD___Gisele"
+            }
+          },
+          {
+            "id": "e668c6722e5c860d",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "explicabilidade.md",
+                "file": "simtsc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "explicabilidade"
+              "title": "simtsc"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,10 +259,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f0df52150c29dc81",
+  "active": "e668c6722e5c860d",
   "lastOpenFiles": [
+    "simtsc.md",
+    "Papers LINDOS/GNN_PKDD___Gisele.pdf",
     "explicabilidade.md",
-    "Untitled.md",
+    "Papers LINDOS",
     "README.md",
     "prova de crypto 2.md",
     "Contador de faltas.md",
@@ -264,11 +279,9 @@
     "Introducao a Contabilidade",
     "Interaçao Humano-Computador",
     "Administração da Produção",
-    "Untitled",
     "01 - archives/adjectives_sa.png",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 2. Fundamentos da ARH.md",
     "2025-03-11.md",
-    "大学",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 14. Recompensas, Remuneração e Benefícios.md",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 13. Gestão e Avaliação de Desempenho.md",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
@@ -288,7 +301,6 @@
     "01 - archives/大学 2024-2/ADM-ARH/TEXTO 16 – Processo Sucessório.md",
     "01 - archives/大学 2024-2/ADM-ARH/Prova 2 - RH.md",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 8. Planejamento de RH.md",
     "01 - archives/Pasted image 20241211140835.png",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",

@@ -31,6 +31,13 @@
         "type": "DIRECTORIES",
         "pattern": "大学",
         "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Papers LINDOS",
+        "patternType": "STRICT"
       }
     ]
   },
