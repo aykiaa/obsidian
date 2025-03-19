@@ -4,33 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "992c645f93492130",
+        "id": "d64bbdc88d8e5052",
         "type": "tabs",
         "children": [
           {
-            "id": "f0df52150c29dc81",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Papers LINDOS/GNN_PKDD___Gisele.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "GNN_PKDD___Gisele"
-            }
-          },
-          {
-            "id": "e668c6722e5c860d",
+            "id": "7d555c2c177ebe99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "simtsc.md",
+                "file": "SPEED/simtsc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "simtsc"
+            }
+          },
+          {
+            "id": "74aedce4b10c6e46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "todo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "todo"
             }
           }
         ],
@@ -259,18 +261,20 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e668c6722e5c860d",
+  "active": "e90ae10e9ecbb673",
   "lastOpenFiles": [
-    "simtsc.md",
-    "Papers LINDOS/GNN_PKDD___Gisele.pdf",
-    "explicabilidade.md",
-    "Papers LINDOS",
+    "SPEED",
+    "SPEED/simtsc.md",
     "README.md",
+    "SPEED/explicabilidade.md",
+    "Introducao a Contabilidade/Aula 01.md",
+    "todo.md",
+    "SPEED/Papers LINDOS/GNN_PKDD___Gisele.pdf",
+    "SPEED/Papers LINDOS",
     "prova de crypto 2.md",
     "Contador de faltas.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Introducao a Contabilidade/Aula 01.md",
     "Introducao a Contabilidade/pdfs/Aula 01.pdf",
     "Introducao a Contabilidade/pdfs",
     "OTI",
@@ -300,7 +304,6 @@
     "01 - archives/大学 2024-2/ADM-ARH/TEXTO 22 – Testagem e Avaliação Psicológica.md",
     "01 - archives/大学 2024-2/ADM-ARH/TEXTO 16 – Processo Sucessório.md",
     "01 - archives/大学 2024-2/ADM-ARH/Prova 2 - RH.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
     "01 - archives/Pasted image 20241211140835.png",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",
