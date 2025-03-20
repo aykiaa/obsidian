@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "52c694a38912c01f",
+        "id": "1c29f0d222ec6f9e",
         "type": "tabs",
         "children": [
           {
-            "id": "11b90f08500c2d00",
+            "id": "89f2aaf3dd0b178e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "explicabilidade.md",
+                "file": "Introducao a Contabilidade/Karate Kid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "explicabilidade"
+              "title": "Karate Kid"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "213acfa439c97249",
         "type": "tabs",
-        "dimension": 48.4189723320158,
+        "dimension": 75.96153846153845,
         "children": [
           {
             "id": "e90ae10e9ecbb673",
@@ -110,7 +110,7 @@
       {
         "id": "7fdf619995b8985a",
         "type": "tabs",
-        "dimension": 51.5810276679842,
+        "dimension": 24.03846153846154,
         "children": [
           {
             "id": "08d8bb00f17492fe",
@@ -256,15 +256,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "89f2aaf3dd0b178e",
   "lastOpenFiles": [
-    "README.md",
-    "explicabilidade.md",
-    "Untitled.md",
-    "prova de crypto 2.md",
     "Untitled 1.md",
+    "Introducao a Contabilidade/Karate Kid.md",
+    "explicabilidade.md",
+    "simtsc.md",
+    "Untitled.md",
+    "Papers LINDOS/GNN_PKDD___Gisele.pdf",
+    "Papers LINDOS",
+    "README.md",
+    "prova de crypto 2.md",
     "Contador de faltas.md",
-    "Untitled 2.md",
     "Introducao a Contabilidade/Aula 01.md",
     "Introducao a Contabilidade/pdfs/Aula 01.pdf",
     "Introducao a Contabilidade/pdfs",
@@ -274,11 +277,9 @@
     "Introducao a Contabilidade",
     "Interaçao Humano-Computador",
     "Administração da Produção",
-    "Untitled",
     "01 - archives/adjectives_sa.png",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 2. Fundamentos da ARH.md",
     "2025-03-11.md",
-    "大学",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 14. Recompensas, Remuneração e Benefícios.md",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 13. Gestão e Avaliação de Desempenho.md",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
@@ -298,7 +299,6 @@
     "01 - archives/大学 2024-2/ADM-ARH/TEXTO 16 – Processo Sucessório.md",
     "01 - archives/大学 2024-2/ADM-ARH/Prova 2 - RH.md",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 9. Recrutamento de Pessoal.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 8. Planejamento de RH.md",
     "01 - archives/Pasted image 20241211140835.png",
     "01 - archives/Pasted image 20241203155528.png",
     "01 - archives/Pasted image 20241203155516.png",

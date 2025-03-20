@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNewspaper",
       "BoBxsFilePdf",
       "LiDatabase",
       "LiCode2",
-      "SiWebmoney",
-      "SiProbot"
+      "SiWebmoney"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -45,5 +45,6 @@
   "Introducao a Contabilidade": "SiWebmoney",
   "Linguagens de Programação": "LiCode2",
   "OTI": "LiDatabase",
-  "Introducao a Contabilidade/pdfs": "BoBxsFilePdf"
+  "Introducao a Contabilidade/pdfs": "BoBxsFilePdf",
+  "Papers LINDOS": "LiNewspaper"
 }
