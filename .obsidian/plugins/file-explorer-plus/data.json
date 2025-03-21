@@ -36,7 +36,14 @@
         "name": "",
         "active": true,
         "type": "DIRECTORIES",
-        "pattern": "Papers LINDOS",
+        "pattern": "SPEED/Papers LINDOS",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "SPEED",
         "patternType": "STRICT"
       }
     ]
