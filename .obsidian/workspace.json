@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "86e6ebc07f8fcaed",
+        "id": "2f701fa930ad66b1",
         "type": "tabs",
         "children": [
           {
-            "id": "4c6fe824fbb0a586",
+            "id": "2cb9f3fdebcfd0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aula 01 - agente inteligentes.md",
+                "file": "Untitled 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 01 - agente inteligentes"
-            }
-          },
-          {
-            "id": "bcb2236c7b04c5a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +33,7 @@
       {
         "id": "213acfa439c97249",
         "type": "tabs",
-        "dimension": 49.35822637106184,
+        "dimension": 75.49019607843137,
         "children": [
           {
             "id": "e90ae10e9ecbb673",
@@ -120,12 +105,13 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7fdf619995b8985a",
         "type": "tabs",
-        "dimension": 50.64177362893816,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "08d8bb00f17492fe",
@@ -271,20 +257,26 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcb2236c7b04c5a7",
+  "active": "2cb9f3fdebcfd0c8",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Aula 03.md",
+    "Pasted image 20250324131309.png",
+    "Aula 01 - agente inteligentes.md",
+    "plot_ecg_dataset 1.py",
+    "plot_ecg_dataset.py",
+    "a.ipynb",
+    "Untitled 1.md",
+    "README.md",
+    "sqdasdsa.md",
+    "Contador de faltas.md",
     "Untitled.md",
+    "todo.md",
     "SPEED/lstm.md",
     "SPEED/Papers/GNN_PKDD___Gisele.pdf",
     "SPEED/Papers",
-    "Aula 01 - agente inteligentes.md",
-    "Pasted image 20250324131309.png",
-    "sqdasdsa.md",
     "Aula 01.md",
-    "Untitled 1.md",
     "Introducao a Contabilidade/Karate Kid.md",
-    "Untitled 2.md",
-    "todo.md",
     "SPEED/Papers LINDOS/GNN_PKDD___Gisele.pdf",
     "SPEED/simtsc.md",
     "SPEED/explicabilidade.md",
@@ -294,13 +286,8 @@
     "simtsc.md",
     "Papers LINDOS/GNN_PKDD___Gisele.pdf",
     "Papers LINDOS",
-    "README.md",
     "prova de crypto 2.md",
-    "Contador de faltas.md",
     "Introducao a Contabilidade/Aula 01.md",
-    "Introducao a Contabilidade/pdfs/Aula 01.pdf",
-    "Introducao a Contabilidade/pdfs",
-    "OTI",
     "01 - archives/adjectives_sa.png",
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 2. Fundamentos da ARH.md",
     "2025-03-11.md",
@@ -309,8 +296,6 @@
     "01 - archives/大学 2024-2/ADM-ARH/ARH - 12. Treinamento, Desenvolvimento e Educação Corporativa.md",
     "01 - archives/大学 2024-2/ADM-ARH/TEXTO 37 - Por que os planos de incentivo não funcionam.md",
     "01 - archives/大学 2024-2/ADM-ARH/TEXTO 29 - Estratégias de educação corporativa e suas relações com os diferentes níveis de aprendizagem organizacional.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 16. Auditoria de RH.md",
-    "01 - archives/大学 2024-2/ADM-ARH/ARH - 15. Gestão de Carreiras.md",
     "01 - archives/Pasted image 20250115102748.png",
     "01 - archives/Pasted image 20250115102353.png",
     "01 - archives/Pasted image 20250115101743.png",
