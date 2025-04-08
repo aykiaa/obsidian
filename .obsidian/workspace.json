@@ -110,7 +110,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "7fdf619995b8985a",
@@ -261,7 +262,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e90ae10e9ecbb673",
+  "active": "122d9e17dac29094",
   "lastOpenFiles": [
     "01 - archives/Pasted image 20250324131309.png",
     "README.md",
